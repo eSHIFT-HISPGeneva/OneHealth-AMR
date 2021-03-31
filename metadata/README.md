@@ -1,0 +1,1 @@
+The following subdirectories provide access to all the relevant metadata files that - when loaded into their respective software components - form the basis of a starting national cross-sector One Health AMR surveillance platform.
