@@ -4,3 +4,4 @@ The metadata file(s), when loaded into DHIS2 using standard metadata import mech
 - A built-in set of breakpoint formuli for a core subset of priority GLASS pathogens and antimicrobrials that allow for the automatic interpretitation of quantitative results;
 - An aggregate AMR data cube for pouring snapshots of interpretted (applied breakpoint) ODS data.
 - a set of common cross-sector dashboards that have been derived by input from country AMR teams.
+Each subdirectory corresponds to a DHIS2 veresion. The metadata file(s) in each of those directories have been validated and tested for that version of DHIS2.
