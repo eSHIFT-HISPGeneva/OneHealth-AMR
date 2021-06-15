@@ -10,9 +10,13 @@ This release of the AMR One Health platform has made certain decisions around th
 <img align="right" src="https://github.com/eSHIFT-HISPGeneva/OneHealth-AMR/blob/master/docs/images/AMR_OneHealth_DW_Conceptual-reduced.png">
 
 ## Operational Data Stores
-The data warehouse discipline includes the concept of an Operational Data Store (or ODS). An ODS brings together data from a number of operational systems into one location, with the data retaining much of the original properties of the source systems. While not considered as a data warehouse proper, they can act as staging areas for data before being processed into datawarehouse-type analytical data cubes. Operational reports can query the data, and provide an environment for 'digging down into' original source data.
-## AMR and ODS in DHIS2
-With the AMR One Health Platform, a decision was made to treat the Tracked Entity capibility in DHIS2 as the equivalent of an ODS construct. Given the competing drivers indicated above and several factors about the type of source AMR data observed from laboratory or other source systems, the following assumptions and contraints were made:
-* A common ODS per domain (animal, human, environment, food, and feed) has been created.
+The data warehouse discipline includes the concept of an Operational Data Store (or ODS). An ODS brings together data from a number of operational systems into one location, with the data retaining much of the original properties of the source systems. While not considered as a data warehouse proper, they can act as staging areas for data before being processed into datawarehouse-type analytical data cubes. Operational reports can query ODS data, and provide an environment for 'digging down into' original source data.
+## ODS in DHIS2
+With the AMR One Health Platform, a decision was made to treat the Tracked Entity capibility in DHIS2 as the equivalent of an ODS construct. Given the competing drivers indicated above and several factors about the AMR data observed from laboratory or other source systems, the following contraints were assumed:
+* A single ODS per domain (animal, human, environment, food, and feed) has been created.
 * The ODS data model is simple, reflecting the 'line listing' nature of most AMR data sources.
-* Compatiability with the WHONET AMR application, which is widely used for the management and analysis of microbiology laboratory data, was central to lookup lists and data elements implemented in the ODS data model(s).
+* Compatiability with the WHONET application, widely used for the management and analysis of microbiology laboratory data, was a central consideration to the deaign.
+* A certain 'cleanup' of source system data is assumed as part of the preliminary ETL (extract, transform, load) process for inserting data into the domain ODS's.
+* Common metadata lookup lists (pathogens, antimcrobials) were used across the ODS domains to support One Health veiws.
+## The ODS Data Model
+
