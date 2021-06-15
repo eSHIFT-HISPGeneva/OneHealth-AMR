@@ -6,3 +6,8 @@ There are several challenges arising from attempting to model a One Health versi
 * Human-centric view of AMR vs. One Health multi-sector views of AMR
 
 This release of the AMR One Health platform has made certain decisions around these balance points, each of which has implications on the design of the data models implemented in DHIS2.
+
+<img align="right" src="https://github.com/eSHIFT-HISPGeneva/OneHealth-AMR/blob/master/docs/images/AMR_OneHealth_DW_Conceptual-reduced.png">
+
+## Data Warehouses and Operational Data Stores
+The data warehouse discipline includes the concept of an Operational Data Store or ODS. An ODS is designed as 
