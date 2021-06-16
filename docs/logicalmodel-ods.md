@@ -19,4 +19,10 @@ With the AMR One Health Platform, a decision was made to treat the Tracked Entit
 * A certain 'cleanup' of source system data is assumed as part of the preliminary ETL (extract, transform, load) process for inserting data into the domain ODS's.
 * Common metadata lookup lists (pathogens, antimcrobials) were used across the ODS domains to support One Health veiws.
 ## The ODS Data Model
+DHIS2's tracker system is designed so one can define entity types (e.g. human), to create an instance of that type (e.g. a specific person with certain attributes), and to enrol that instance in one or more programs. A program (e.g. Childhood Immunisation Program) consists of a series of events with each event (e.g. a vaccination visit) designed to capture a cetain set of data items (e.g. the type of vaccine administered).
+
+For the AMR One Health Platform, a key question is that needed answering was _what are we tracking?_ A person? An Animal? A sample?
+
+In order to support cross-domian views of AMR activity, the development team agreed that the entity type to track is a specific sample of a pathogen. 
+
 
