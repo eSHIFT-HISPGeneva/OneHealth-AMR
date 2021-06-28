@@ -641,8 +641,8 @@
                 }
             ],
             "programType": "WITH_REGISTRATION",
-            "selectEnrollmentDatesInFuture": false,
-            "selectIncidentDatesInFuture": false,
+            "selectEnrollmentDatesInFuture": true,
+            "selectIncidentDatesInFuture": true,
             "sharing": {
                 "external": false,
                 "owner": "M5zQapPyTZI",
