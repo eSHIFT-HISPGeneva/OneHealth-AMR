@@ -1,0 +1,680 @@
+{
+    "date": "2021-06-28T05:56:07.353",
+    "programStageDataElements": [
+        {
+            "allowFutureDate": false,
+            "allowProvidedElsewhere": false,
+            "compulsory": true,
+            "created": "2021-05-27T04:42:36.582",
+            "dataElement": {
+                "id": "gaCDwmKm768"
+            },
+            "displayInReports": false,
+            "id": "CYAJ4aLmqKF",
+            "lastUpdated": "2021-06-28T02:29:34.505",
+            "programStage": {
+                "id": "kGfHGNWI6iQ"
+            },
+            "renderOptionsAsRadio": false,
+            "skipSynchronization": false,
+            "sortOrder": 3
+        },
+        {
+            "allowFutureDate": false,
+            "allowProvidedElsewhere": false,
+            "compulsory": false,
+            "created": "2021-05-27T04:42:36.581",
+            "dataElement": {
+                "id": "sjggkgBfIWE"
+            },
+            "displayInReports": false,
+            "id": "pB0ePhw37KI",
+            "lastUpdated": "2021-06-28T02:29:34.505",
+            "programStage": {
+                "id": "kGfHGNWI6iQ"
+            },
+            "renderOptionsAsRadio": false,
+            "skipSynchronization": false,
+            "sortOrder": 5
+        },
+        {
+            "allowFutureDate": false,
+            "allowProvidedElsewhere": false,
+            "compulsory": false,
+            "created": "2021-05-27T04:43:39.899",
+            "dataElement": {
+                "id": "C25kY3E21zv"
+            },
+            "displayInReports": false,
+            "id": "QvAIu207mpF",
+            "lastUpdated": "2021-06-28T02:29:34.505",
+            "programStage": {
+                "id": "kGfHGNWI6iQ"
+            },
+            "renderOptionsAsRadio": false,
+            "skipSynchronization": false,
+            "sortOrder": 5
+        }
+    ],
+    "programStageSections": [
+        {
+            "created": "2019-09-06T15:30:11.176",
+            "dataElements": [
+                {
+                    "id": "gaCDwmKm768"
+                },
+                {
+                    "id": "C25kY3E21zv"
+                },
+                {
+                    "id": "sjggkgBfIWE"
+                }
+            ],
+            "id": "ieBBZwphRLt",
+            "lastUpdated": "2021-06-22T23:04:41.652",
+            "name": "Result",
+            "programIndicators": [],
+            "programStage": {
+                "id": "kGfHGNWI6iQ"
+            },
+            "renderType": {
+                "DESKTOP": {
+                    "type": "LISTING"
+                },
+                "MOBILE": {
+                    "type": "LISTING"
+                }
+            },
+            "sortOrder": 0,
+            "translations": []
+        }
+    ],
+    "programStages": [
+        {
+            "allowGenerateNextVisit": false,
+            "attributeValues": [],
+            "autoGenerateEvent": true,
+            "blockEntryForm": false,
+            "created": "2021-05-27T04:42:36.581",
+            "displayGenerateEventBox": true,
+            "enableUserAssignment": false,
+            "generatedByEnrollmentDate": false,
+            "hideDueDate": true,
+            "id": "kGfHGNWI6iQ",
+            "lastUpdated": "2021-06-28T02:29:34.504",
+            "minDaysFromStart": 0,
+            "name": "Animal Details",
+            "notificationTemplates": [],
+            "openAfterEnrollment": true,
+            "preGenerateUID": false,
+            "program": {
+                "id": "sWf6NXIupFI"
+            },
+            "programStageDataElements": [
+                {
+                    "access": {
+                        "delete": true,
+                        "externalize": true,
+                        "manage": true,
+                        "read": true,
+                        "update": true,
+                        "write": true
+                    },
+                    "allowFutureDate": false,
+                    "allowProvidedElsewhere": false,
+                    "attributeValues": [],
+                    "compulsory": true,
+                    "created": "2021-05-27T04:42:36.582",
+                    "dataElement": {
+                        "id": "gaCDwmKm768"
+                    },
+                    "displayInReports": false,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "CYAJ4aLmqKF",
+                    "lastUpdated": "2021-06-28T02:29:34.505",
+                    "programStage": {
+                        "id": "kGfHGNWI6iQ"
+                    },
+                    "renderOptionsAsRadio": false,
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "skipSynchronization": false,
+                    "sortOrder": 3,
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": []
+                },
+                {
+                    "access": {
+                        "delete": true,
+                        "externalize": true,
+                        "manage": true,
+                        "read": true,
+                        "update": true,
+                        "write": true
+                    },
+                    "allowFutureDate": false,
+                    "allowProvidedElsewhere": false,
+                    "attributeValues": [],
+                    "compulsory": false,
+                    "created": "2021-05-27T04:42:36.581",
+                    "dataElement": {
+                        "id": "sjggkgBfIWE"
+                    },
+                    "displayInReports": false,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "pB0ePhw37KI",
+                    "lastUpdated": "2021-06-28T02:29:34.505",
+                    "programStage": {
+                        "id": "kGfHGNWI6iQ"
+                    },
+                    "renderOptionsAsRadio": false,
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "skipSynchronization": false,
+                    "sortOrder": 5,
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": []
+                },
+                {
+                    "access": {
+                        "delete": true,
+                        "externalize": true,
+                        "manage": true,
+                        "read": true,
+                        "update": true,
+                        "write": true
+                    },
+                    "allowFutureDate": false,
+                    "allowProvidedElsewhere": false,
+                    "attributeValues": [],
+                    "compulsory": false,
+                    "created": "2021-05-27T04:43:39.899",
+                    "dataElement": {
+                        "id": "C25kY3E21zv"
+                    },
+                    "displayInReports": false,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "QvAIu207mpF",
+                    "lastUpdated": "2021-06-28T02:29:34.505",
+                    "programStage": {
+                        "id": "kGfHGNWI6iQ"
+                    },
+                    "renderOptionsAsRadio": false,
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "skipSynchronization": false,
+                    "sortOrder": 5,
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": []
+                }
+            ],
+            "programStageSections": [
+                {
+                    "id": "ieBBZwphRLt"
+                }
+            ],
+            "remindCompleted": false,
+            "repeatable": true,
+            "sharing": {
+                "external": false,
+                "owner": "M5zQapPyTZI",
+                "public": "--------",
+                "userGroups": {
+                    "Awfb9EPz65B": {
+                        "access": "r-rw----",
+                        "id": "Awfb9EPz65B"
+                    },
+                    "czMdphD5I0Q": {
+                        "access": "r-rw----",
+                        "id": "czMdphD5I0Q"
+                    },
+                    "hAlY0mdsYD4": {
+                        "access": "rwr-----",
+                        "id": "hAlY0mdsYD4"
+                    },
+                    "wuWrewVeKxK": {
+                        "access": "r-r-----",
+                        "id": "wuWrewVeKxK"
+                    }
+                },
+                "users": {}
+            },
+            "sortOrder": 1,
+            "translations": [],
+            "validationStrategy": "ON_COMPLETE"
+        }
+    ],
+    "programTrackedEntityAttributes": [
+        {
+            "created": "2021-06-22T23:03:49.814",
+            "displayInList": true,
+            "id": "hN74zOP8bcY",
+            "lastUpdated": "2021-06-28T05:22:04.942",
+            "mandatory": false,
+            "program": {
+                "id": "sWf6NXIupFI"
+            },
+            "programTrackedEntityAttributeGroups": [],
+            "renderOptionsAsRadio": false,
+            "searchable": false,
+            "sortOrder": 6,
+            "trackedEntityAttribute": {
+                "id": "qaQzslMuVac"
+            }
+        },
+        {
+            "created": "2021-06-22T23:03:49.814",
+            "displayInList": true,
+            "id": "uwAg5VVkQXe",
+            "lastUpdated": "2021-06-28T05:22:04.942",
+            "mandatory": true,
+            "program": {
+                "id": "sWf6NXIupFI"
+            },
+            "programTrackedEntityAttributeGroups": [],
+            "renderOptionsAsRadio": false,
+            "searchable": false,
+            "sortOrder": 2,
+            "trackedEntityAttribute": {
+                "id": "opkhFoeEz9m"
+            }
+        },
+        {
+            "created": "2021-06-22T23:03:49.814",
+            "displayInList": false,
+            "id": "tDdubEImLpj",
+            "lastUpdated": "2021-06-28T05:22:04.941",
+            "mandatory": false,
+            "program": {
+                "id": "sWf6NXIupFI"
+            },
+            "programTrackedEntityAttributeGroups": [],
+            "renderOptionsAsRadio": false,
+            "searchable": false,
+            "sortOrder": 1,
+            "trackedEntityAttribute": {
+                "id": "LQZywhYcISY"
+            }
+        },
+        {
+            "created": "2021-06-22T23:03:49.814",
+            "displayInList": true,
+            "id": "YP5HT3YsZac",
+            "lastUpdated": "2021-06-28T05:22:04.942",
+            "mandatory": false,
+            "program": {
+                "id": "sWf6NXIupFI"
+            },
+            "programTrackedEntityAttributeGroups": [],
+            "renderOptionsAsRadio": false,
+            "searchable": false,
+            "sortOrder": 4,
+            "trackedEntityAttribute": {
+                "id": "eaqQd1d6yAV"
+            }
+        },
+        {
+            "created": "2021-06-22T23:03:49.814",
+            "displayInList": true,
+            "id": "Pe9TT0E15hQ",
+            "lastUpdated": "2021-06-28T05:22:04.942",
+            "mandatory": true,
+            "program": {
+                "id": "sWf6NXIupFI"
+            },
+            "programTrackedEntityAttributeGroups": [],
+            "renderOptionsAsRadio": false,
+            "searchable": false,
+            "sortOrder": 3,
+            "trackedEntityAttribute": {
+                "id": "Cex2g45wMZy"
+            }
+        },
+        {
+            "created": "2021-05-27T04:42:36.558",
+            "displayInList": true,
+            "id": "F8FVzsx90ct",
+            "lastUpdated": "2021-06-28T05:22:04.942",
+            "mandatory": false,
+            "program": {
+                "id": "sWf6NXIupFI"
+            },
+            "programTrackedEntityAttributeGroups": [],
+            "renderOptionsAsRadio": false,
+            "searchable": false,
+            "sortOrder": 5,
+            "trackedEntityAttribute": {
+                "id": "QznE0JyWMCT"
+            }
+        }
+    ],
+    "programs": [
+        {
+            "accessLevel": "OPEN",
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "bjDvmb4bfuf"
+            },
+            "completeEventsExpiryDays": 0,
+            "created": "2021-05-27T04:42:36.592",
+            "displayFrontPageList": true,
+            "displayIncidentDate": false,
+            "expiryDays": 0,
+            "id": "sWf6NXIupFI",
+            "ignoreOverdueEvents": false,
+            "lastUpdated": "2021-06-28T05:22:04.941",
+            "maxTeiCountToReturn": 0,
+            "minAttributesRequiredToSearch": 1,
+            "name": "AMR - Animal",
+            "notificationTemplates": [],
+            "onlyEnrollOnce": true,
+            "programSections": [],
+            "programStages": [
+                {
+                    "id": "kGfHGNWI6iQ"
+                }
+            ],
+            "programTrackedEntityAttributes": [
+                {
+                    "access": {
+                        "delete": true,
+                        "externalize": true,
+                        "manage": true,
+                        "read": true,
+                        "update": true,
+                        "write": true
+                    },
+                    "attributeValues": [],
+                    "created": "2021-06-22T23:03:49.814",
+                    "displayInList": false,
+                    "displayName": "AMR - Animal Laboratory",
+                    "displayShortName": "AMR - Animal Lab",
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "tDdubEImLpj",
+                    "lastUpdated": "2021-06-28T05:22:04.941",
+                    "mandatory": false,
+                    "name": "AMR - Animal Laboratory",
+                    "program": {
+                        "id": "sWf6NXIupFI"
+                    },
+                    "programTrackedEntityAttributeGroups": [],
+                    "renderOptionsAsRadio": false,
+                    "searchable": false,
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "sortOrder": 1,
+                    "trackedEntityAttribute": {
+                        "id": "LQZywhYcISY"
+                    },
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "valueType": "ORGANISATION_UNIT"
+                },
+                {
+                    "access": {
+                        "delete": true,
+                        "externalize": true,
+                        "manage": true,
+                        "read": true,
+                        "update": true,
+                        "write": true
+                    },
+                    "attributeValues": [],
+                    "created": "2021-06-22T23:03:49.814",
+                    "displayInList": true,
+                    "displayName": "AMR - Animal Pathogen",
+                    "displayShortName": "AMR - Animal Pathogen",
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "uwAg5VVkQXe",
+                    "lastUpdated": "2021-06-28T05:22:04.942",
+                    "mandatory": true,
+                    "name": "AMR - Animal Pathogen",
+                    "program": {
+                        "id": "sWf6NXIupFI"
+                    },
+                    "programTrackedEntityAttributeGroups": [],
+                    "renderOptionsAsRadio": false,
+                    "searchable": false,
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "sortOrder": 2,
+                    "trackedEntityAttribute": {
+                        "id": "opkhFoeEz9m"
+                    },
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "valueType": "TEXT"
+                },
+                {
+                    "access": {
+                        "delete": true,
+                        "externalize": true,
+                        "manage": true,
+                        "read": true,
+                        "update": true,
+                        "write": true
+                    },
+                    "attributeValues": [],
+                    "created": "2021-06-22T23:03:49.814",
+                    "displayInList": true,
+                    "displayName": "AMR - Animal Specimen Type (Animal)",
+                    "displayShortName": "AMR - Animal Specimen Type (A)",
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "Pe9TT0E15hQ",
+                    "lastUpdated": "2021-06-28T05:22:04.942",
+                    "mandatory": true,
+                    "name": "AMR - Animal Specimen Type (Animal)",
+                    "program": {
+                        "id": "sWf6NXIupFI"
+                    },
+                    "programTrackedEntityAttributeGroups": [],
+                    "renderOptionsAsRadio": false,
+                    "searchable": false,
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "sortOrder": 3,
+                    "trackedEntityAttribute": {
+                        "id": "Cex2g45wMZy"
+                    },
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "valueType": "TEXT"
+                },
+                {
+                    "access": {
+                        "delete": true,
+                        "externalize": true,
+                        "manage": true,
+                        "read": true,
+                        "update": true,
+                        "write": true
+                    },
+                    "attributeValues": [],
+                    "created": "2021-06-22T23:03:49.814",
+                    "displayInList": true,
+                    "displayName": "AMR - Animal ID_Specimen",
+                    "displayShortName": "AMR - Animal ID_Specimen",
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "YP5HT3YsZac",
+                    "lastUpdated": "2021-06-28T05:22:04.942",
+                    "mandatory": false,
+                    "name": "AMR - Animal ID_Specimen",
+                    "program": {
+                        "id": "sWf6NXIupFI"
+                    },
+                    "programTrackedEntityAttributeGroups": [],
+                    "renderOptionsAsRadio": false,
+                    "searchable": false,
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "sortOrder": 4,
+                    "trackedEntityAttribute": {
+                        "id": "eaqQd1d6yAV"
+                    },
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "valueType": "TEXT"
+                },
+                {
+                    "access": {
+                        "delete": true,
+                        "externalize": true,
+                        "manage": true,
+                        "read": true,
+                        "update": true,
+                        "write": true
+                    },
+                    "attributeValues": [],
+                    "created": "2021-05-27T04:42:36.558",
+                    "displayInList": true,
+                    "displayName": "AMR - Animal ID_OriginatingEntity",
+                    "displayShortName": "AMR - Animal ID_OriginatingEntity",
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "F8FVzsx90ct",
+                    "lastUpdated": "2021-06-28T05:22:04.942",
+                    "mandatory": false,
+                    "name": "AMR - Animal ID_OriginatingEntity",
+                    "program": {
+                        "id": "sWf6NXIupFI"
+                    },
+                    "programTrackedEntityAttributeGroups": [],
+                    "renderOptionsAsRadio": false,
+                    "searchable": false,
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "sortOrder": 5,
+                    "trackedEntityAttribute": {
+                        "id": "QznE0JyWMCT"
+                    },
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "valueType": "TEXT"
+                },
+                {
+                    "access": {
+                        "delete": true,
+                        "externalize": true,
+                        "manage": true,
+                        "read": true,
+                        "update": true,
+                        "write": true
+                    },
+                    "attributeValues": [],
+                    "created": "2021-06-22T23:03:49.814",
+                    "displayInList": true,
+                    "displayName": "AMR - Animal ID_OH_AMR",
+                    "displayShortName": "AMR - Animal ID_OH_AMR",
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "hN74zOP8bcY",
+                    "lastUpdated": "2021-06-28T05:22:04.942",
+                    "mandatory": false,
+                    "name": "AMR - Animal ID_OH_AMR",
+                    "program": {
+                        "id": "sWf6NXIupFI"
+                    },
+                    "programTrackedEntityAttributeGroups": [],
+                    "renderOptionsAsRadio": false,
+                    "searchable": false,
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "sortOrder": 6,
+                    "trackedEntityAttribute": {
+                        "id": "qaQzslMuVac"
+                    },
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "valueType": "TEXT"
+                }
+            ],
+            "programType": "WITH_REGISTRATION",
+            "selectEnrollmentDatesInFuture": false,
+            "selectIncidentDatesInFuture": false,
+            "sharing": {
+                "external": false,
+                "owner": "M5zQapPyTZI",
+                "public": "--------",
+                "userGroups": {
+                    "Awfb9EPz65B": {
+                        "access": "r-rw----",
+                        "id": "Awfb9EPz65B"
+                    },
+                    "czMdphD5I0Q": {
+                        "access": "r-rw----",
+                        "id": "czMdphD5I0Q"
+                    },
+                    "hAlY0mdsYD4": {
+                        "access": "rwr-----",
+                        "id": "hAlY0mdsYD4"
+                    },
+                    "wuWrewVeKxK": {
+                        "access": "r-r-----",
+                        "id": "wuWrewVeKxK"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "AMR - Animal",
+            "skipOffline": false,
+            "trackedEntityType": {
+                "id": "tuhi0maUrlh"
+            },
+            "translations": [],
+            "useFirstStageDuringRegistration": false,
+            "version": 26
+        }
+    ]
+}
