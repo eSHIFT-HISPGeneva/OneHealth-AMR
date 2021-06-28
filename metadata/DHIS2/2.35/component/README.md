@@ -6,7 +6,7 @@ To be valid, the metadata objects __MUST be imported in the following order:__
 ### ODS Layer (landing point for imported AMR data)
 * Permission Groups (usergroups.json)
 * Option Sets (optionset-name.json)
-* Tracker Types and Attributes (trackerattributes.json)
+* Tracker Types and Attributes (trackertypesattributes.json)
 * Program Data Elements (dataelement-progs.json)
 * Tracker Programs (program-name.sjon)
 ### Analytics Layer (aggregate AMR tables for analytics and reporting)
