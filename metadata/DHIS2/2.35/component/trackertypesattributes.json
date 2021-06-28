@@ -1,0 +1,1025 @@
+{
+    "system": {
+        "date": "2021-06-28T04:31:17.377",
+        "id": "3d255d38-f428-4c88-9a2a-a55b45d6db1a",
+        "rev": "ca2700f",
+        "version": "2.36.0"
+    },
+    "legendSets": [
+        {
+            "attributeValues": [],
+            "created": "2019-10-28T11:48:26.920",
+            "id": "oPyVHCMErH0",
+            "lastUpdated": "2021-06-04T12:09:28.426",
+            "legends": [
+                {
+                    "access": {
+                        "delete": true,
+                        "externalize": true,
+                        "manage": true,
+                        "read": true,
+                        "update": true,
+                        "write": true
+                    },
+                    "attributeValues": [],
+                    "color": "#FFA500",
+                    "created": "2019-12-17T19:05:16.372",
+                    "displayName": "65 -74",
+                    "endValue": 75.0,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "dGbMkILwzzN",
+                    "lastUpdated": "2021-06-04T12:09:28.430",
+                    "name": "65 -74",
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "startValue": 65.0,
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": []
+                },
+                {
+                    "access": {
+                        "delete": true,
+                        "externalize": true,
+                        "manage": true,
+                        "read": true,
+                        "update": true,
+                        "write": true
+                    },
+                    "attributeValues": [],
+                    "color": "#FFA500",
+                    "created": "2019-12-17T19:05:16.372",
+                    "displayName": "85 +",
+                    "endValue": 120.0,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "VKJhxU3XeVU",
+                    "lastUpdated": "2021-06-04T12:09:28.430",
+                    "name": "85 + ",
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "startValue": 85.0,
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": []
+                },
+                {
+                    "access": {
+                        "delete": true,
+                        "externalize": true,
+                        "manage": true,
+                        "read": true,
+                        "update": true,
+                        "write": true
+                    },
+                    "attributeValues": [],
+                    "color": "#FFA500",
+                    "created": "2019-12-17T19:05:16.372",
+                    "displayName": "25 -34 y",
+                    "endValue": 35.0,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "T51pNS4GE9a",
+                    "lastUpdated": "2021-06-04T12:09:28.430",
+                    "name": "25 -34 y",
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "startValue": 25.0,
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": []
+                },
+                {
+                    "access": {
+                        "delete": true,
+                        "externalize": true,
+                        "manage": true,
+                        "read": true,
+                        "update": true,
+                        "write": true
+                    },
+                    "attributeValues": [],
+                    "color": "#FFA500",
+                    "created": "2019-12-17T19:05:16.372",
+                    "displayName": "15 -24 y",
+                    "endValue": 25.0,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "LF7HNYtqIr5",
+                    "lastUpdated": "2021-06-04T12:09:28.430",
+                    "name": "15 -24 y",
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "startValue": 15.0,
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": []
+                },
+                {
+                    "access": {
+                        "delete": true,
+                        "externalize": true,
+                        "manage": true,
+                        "read": true,
+                        "update": true,
+                        "write": true
+                    },
+                    "attributeValues": [],
+                    "color": "#FFA500",
+                    "created": "2019-12-17T19:05:16.372",
+                    "displayName": "35 - 44 y",
+                    "endValue": 45.0,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "eQslOKgf0Wp",
+                    "lastUpdated": "2021-06-04T12:09:28.431",
+                    "name": "35 - 44 y",
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "startValue": 35.0,
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": []
+                },
+                {
+                    "access": {
+                        "delete": true,
+                        "externalize": true,
+                        "manage": true,
+                        "read": true,
+                        "update": true,
+                        "write": true
+                    },
+                    "attributeValues": [],
+                    "color": "#FFA500",
+                    "created": "2019-12-17T19:05:16.372",
+                    "displayName": "55 - 64 y",
+                    "endValue": 65.0,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "Dh89WgJK9vt",
+                    "lastUpdated": "2021-06-04T12:09:28.431",
+                    "name": "55 - 64 y",
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "startValue": 55.0,
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": []
+                },
+                {
+                    "access": {
+                        "delete": true,
+                        "externalize": true,
+                        "manage": true,
+                        "read": true,
+                        "update": true,
+                        "write": true
+                    },
+                    "attributeValues": [],
+                    "color": "#FFA500",
+                    "created": "2019-12-17T19:05:16.372",
+                    "displayName": "5 -14 y",
+                    "endValue": 15.0,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "VUF8eXjrbjC",
+                    "lastUpdated": "2021-06-04T12:09:28.431",
+                    "name": "5 -14 y",
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "startValue": 5.0,
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": []
+                },
+                {
+                    "access": {
+                        "delete": true,
+                        "externalize": true,
+                        "manage": true,
+                        "read": true,
+                        "update": true,
+                        "write": true
+                    },
+                    "attributeValues": [],
+                    "color": "#FFA500",
+                    "created": "2019-12-17T19:05:16.372",
+                    "displayName": "<1 y",
+                    "endValue": 1.0,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "y6vwuHXxddO",
+                    "lastUpdated": "2021-06-04T12:09:28.431",
+                    "name": "<1 y",
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "startValue": 0.0,
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": []
+                },
+                {
+                    "access": {
+                        "delete": true,
+                        "externalize": true,
+                        "manage": true,
+                        "read": true,
+                        "update": true,
+                        "write": true
+                    },
+                    "attributeValues": [],
+                    "color": "#FFA500",
+                    "created": "2019-12-17T19:05:16.373",
+                    "displayName": "45 -54 y",
+                    "endValue": 55.0,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "G2ur1JRd6uL",
+                    "lastUpdated": "2021-06-04T12:09:28.431",
+                    "name": "45 -54 y",
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "startValue": 45.0,
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": []
+                },
+                {
+                    "access": {
+                        "delete": true,
+                        "externalize": true,
+                        "manage": true,
+                        "read": true,
+                        "update": true,
+                        "write": true
+                    },
+                    "attributeValues": [],
+                    "color": "#FFA500",
+                    "created": "2019-12-17T19:05:16.373",
+                    "displayName": "1 - 4 y",
+                    "endValue": 5.0,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "jf5Zr4sleyX",
+                    "lastUpdated": "2021-06-04T12:09:28.431",
+                    "name": "1 - 4 y",
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "startValue": 1.0,
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": []
+                },
+                {
+                    "access": {
+                        "delete": true,
+                        "externalize": true,
+                        "manage": true,
+                        "read": true,
+                        "update": true,
+                        "write": true
+                    },
+                    "attributeValues": [],
+                    "color": "#FFA500",
+                    "created": "2019-12-17T19:05:16.373",
+                    "displayName": "75 - 84 y",
+                    "endValue": 85.0,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "Z6eawM1m33G",
+                    "lastUpdated": "2021-06-04T12:09:28.431",
+                    "name": "75 - 84 y",
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "startValue": 75.0,
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": []
+                }
+            ],
+            "name": "Age Breakdown",
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "created": "2021-06-22T08:25:40.079",
+            "id": "nRUY1p8cDiQ",
+            "lastUpdated": "2021-06-22T09:43:20.237",
+            "legends": [
+                {
+                    "access": {
+                        "delete": true,
+                        "externalize": true,
+                        "manage": true,
+                        "read": true,
+                        "update": true,
+                        "write": true
+                    },
+                    "attributeValues": [],
+                    "color": "#FF0000",
+                    "created": "2021-06-22T09:43:20.237",
+                    "displayName": "Red",
+                    "endValue": 1000000.0,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "ZYnDXXOAnzw",
+                    "lastUpdated": "2021-06-22T09:43:20.237",
+                    "name": "Red",
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "startValue": 0.0,
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": []
+                }
+            ],
+            "name": "Color Red",
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "created": "2021-06-22T09:27:34.676",
+            "id": "d3o62pdKWQX",
+            "lastUpdated": "2021-06-22T09:55:35.487",
+            "legends": [
+                {
+                    "access": {
+                        "delete": true,
+                        "externalize": true,
+                        "manage": true,
+                        "read": true,
+                        "update": true,
+                        "write": true
+                    },
+                    "attributeValues": [],
+                    "color": "#0BD12D",
+                    "created": "2021-06-22T09:55:35.487",
+                    "displayName": "Green",
+                    "endValue": 1000000.0,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "HrOZv3eP3Hi",
+                    "lastUpdated": "2021-06-22T09:55:35.487",
+                    "name": "Green",
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "startValue": 0.0,
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": []
+                }
+            ],
+            "name": "Color green",
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "created": "2021-06-22T09:19:33.089",
+            "id": "wXn4BgcqASB",
+            "lastUpdated": "2021-06-22T09:44:20.146",
+            "legends": [
+                {
+                    "access": {
+                        "delete": true,
+                        "externalize": true,
+                        "manage": true,
+                        "read": true,
+                        "update": true,
+                        "write": true
+                    },
+                    "attributeValues": [],
+                    "color": "#FFE900",
+                    "created": "2021-06-22T09:44:20.146",
+                    "displayName": "Yellow",
+                    "endValue": 1000000.0,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "Y4s0Fa2nA75",
+                    "lastUpdated": "2021-06-22T09:44:20.146",
+                    "name": "Yellow",
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "startValue": 0.0,
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": []
+                }
+            ],
+            "name": "Color yellow",
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "created": "2019-09-25T14:12:57.481",
+            "id": "YBOsbxAxfgO",
+            "lastUpdated": "2021-06-04T12:09:28.379",
+            "legends": [
+                {
+                    "access": {
+                        "delete": true,
+                        "externalize": true,
+                        "manage": true,
+                        "read": true,
+                        "update": true,
+                        "write": true
+                    },
+                    "attributeValues": [],
+                    "color": "#13FF00",
+                    "created": "2019-12-12T10:09:06.430",
+                    "displayName": "(0 - 40)%",
+                    "endValue": 41.0,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "jIkPd0vjzVU",
+                    "lastUpdated": "2021-06-04T12:09:28.379",
+                    "name": "(0 - 40)%",
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "startValue": 0.0,
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": []
+                },
+                {
+                    "access": {
+                        "delete": true,
+                        "externalize": true,
+                        "manage": true,
+                        "read": true,
+                        "update": true,
+                        "write": true
+                    },
+                    "attributeValues": [],
+                    "color": "#FFC400",
+                    "created": "2019-12-12T10:09:06.430",
+                    "displayName": "(40 - 60)%",
+                    "endValue": 61.0,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "HMWaahfm38J",
+                    "lastUpdated": "2021-06-04T12:09:28.379",
+                    "name": "(40 - 60)%",
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "startValue": 41.0,
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": []
+                },
+                {
+                    "access": {
+                        "delete": true,
+                        "externalize": true,
+                        "manage": true,
+                        "read": true,
+                        "update": true,
+                        "write": true
+                    },
+                    "attributeValues": [],
+                    "color": "#FF0600",
+                    "created": "2019-12-12T10:09:06.430",
+                    "displayName": "(60 - 100)%",
+                    "endValue": 100.0,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "N6YxrrTX4LY",
+                    "lastUpdated": "2021-06-04T12:09:28.379",
+                    "name": "(60 - 100)%",
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "startValue": 61.0,
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": []
+                }
+            ],
+            "name": "Human (0-40,40-60,60-100)%",
+            "translations": []
+        }
+    ],
+    "trackedEntityAttributes": [
+        {
+            "aggregationType": "COUNT",
+            "attributeValues": [],
+            "confidential": false,
+            "created": "2021-05-26T04:21:35.359",
+            "displayInListNoProgram": false,
+            "displayOnVisitSchedule": false,
+            "generated": false,
+            "id": "BXdKAz7qu0K",
+            "inherit": false,
+            "lastUpdated": "2021-05-26T04:21:35.359",
+            "legendSets": [],
+            "name": "Age (Days)",
+            "orgunitScope": false,
+            "pattern": "",
+            "shortName": "Age (Days)",
+            "skipSynchronization": false,
+            "translations": [],
+            "unique": false,
+            "valueType": "NUMBER"
+        },
+        {
+            "aggregationType": "COUNT",
+            "attributeValues": [],
+            "confidential": false,
+            "created": "2021-05-26T04:21:35.359",
+            "displayInListNoProgram": false,
+            "displayOnVisitSchedule": false,
+            "generated": false,
+            "id": "nZHB18RzReF",
+            "inherit": false,
+            "lastUpdated": "2021-05-26T04:21:35.359",
+            "legendSets": [],
+            "name": "Age (Months)",
+            "orgunitScope": false,
+            "pattern": "",
+            "shortName": "Age (Months)",
+            "skipSynchronization": false,
+            "translations": [],
+            "unique": false,
+            "valueType": "NUMBER"
+        },
+        {
+            "aggregationType": "COUNT",
+            "attributeValues": [],
+            "confidential": false,
+            "created": "2021-05-26T04:21:35.359",
+            "displayInListNoProgram": false,
+            "displayOnVisitSchedule": false,
+            "generated": false,
+            "id": "TRm4iaYikdK",
+            "inherit": false,
+            "lastUpdated": "2021-05-26T04:21:35.359",
+            "legendSets": [
+                {
+                    "id": "oPyVHCMErH0"
+                }
+            ],
+            "name": "Age (Years)",
+            "orgunitScope": false,
+            "pattern": "",
+            "shortName": "Age (Years)",
+            "skipSynchronization": false,
+            "translations": [],
+            "unique": false,
+            "valueType": "NUMBER"
+        },
+        {
+            "aggregationType": "COUNT",
+            "attributeValues": [],
+            "confidential": false,
+            "created": "2021-06-20T22:58:09.952",
+            "displayInListNoProgram": false,
+            "displayOnVisitSchedule": false,
+            "generated": true,
+            "id": "qaQzslMuVac",
+            "inherit": false,
+            "lastUpdated": "2021-06-20T22:58:09.952",
+            "legendSets": [],
+            "name": "ID_OH_AMR",
+            "orgunitScope": false,
+            "pattern": "\"OH_AMR-\" + SEQUENTIAL(#########)",
+            "shortName": "ID_OH_AMR",
+            "skipSynchronization": false,
+            "translations": [],
+            "unique": true,
+            "valueType": "TEXT"
+        },
+        {
+            "aggregationType": "COUNT",
+            "attributeValues": [],
+            "confidential": false,
+            "created": "2021-05-26T04:21:35.359",
+            "displayInListNoProgram": false,
+            "displayOnVisitSchedule": false,
+            "generated": false,
+            "id": "QznE0JyWMCT",
+            "inherit": false,
+            "lastUpdated": "2021-06-20T22:33:46.126",
+            "legendSets": [],
+            "name": "ID_OriginatingEntity",
+            "orgunitScope": false,
+            "pattern": "",
+            "shortName": "ID_OriginatingEntity",
+            "skipSynchronization": false,
+            "translations": [],
+            "unique": true,
+            "valueType": "TEXT"
+        },
+        {
+            "aggregationType": "COUNT",
+            "attributeValues": [],
+            "confidential": false,
+            "created": "2021-06-20T22:20:05.210",
+            "displayInListNoProgram": false,
+            "displayOnVisitSchedule": false,
+            "generated": false,
+            "id": "eaqQd1d6yAV",
+            "inherit": false,
+            "lastUpdated": "2021-06-20T22:20:05.210",
+            "legendSets": [],
+            "name": "ID_Specimen",
+            "orgunitScope": false,
+            "pattern": "",
+            "shortName": "ID_Specimen",
+            "skipSynchronization": false,
+            "translations": [],
+            "unique": false,
+            "valueType": "TEXT"
+        },
+        {
+            "aggregationType": "NONE",
+            "attributeValues": [],
+            "confidential": false,
+            "created": "2021-06-22T21:20:55.754",
+            "displayInListNoProgram": false,
+            "displayOnVisitSchedule": false,
+            "generated": false,
+            "id": "LQZywhYcISY",
+            "inherit": false,
+            "lastUpdated": "2021-06-22T21:20:55.754",
+            "legendSets": [],
+            "name": "Laboratory",
+            "orgunitScope": false,
+            "pattern": "",
+            "shortName": "Lab",
+            "skipSynchronization": false,
+            "translations": [],
+            "unique": false,
+            "valueType": "ORGANISATION_UNIT"
+        },
+        {
+            "aggregationType": "NONE",
+            "attributeValues": [],
+            "confidential": false,
+            "created": "2021-06-22T21:19:41.561",
+            "displayInListNoProgram": false,
+            "displayOnVisitSchedule": false,
+            "generated": false,
+            "id": "opkhFoeEz9m",
+            "inherit": false,
+            "lastUpdated": "2021-06-22T21:19:41.561",
+            "legendSets": [],
+            "name": "Pathogen",
+            "optionSet": {
+                "id": "Vbpoy21uQ70"
+            },
+            "orgunitScope": false,
+            "pattern": "",
+            "shortName": "Pathogen",
+            "skipSynchronization": false,
+            "translations": [],
+            "unique": false,
+            "valueType": "TEXT"
+        },
+        {
+            "aggregationType": "NONE",
+            "attributeValues": [],
+            "confidential": false,
+            "created": "2021-05-26T04:21:35.359",
+            "displayInListNoProgram": false,
+            "displayOnVisitSchedule": false,
+            "generated": false,
+            "id": "DYsNDR4nCWB",
+            "inherit": false,
+            "lastUpdated": "2021-05-26T04:21:35.359",
+            "legendSets": [],
+            "name": "Sex",
+            "optionSet": {
+                "id": "yeY3gSTHyTU"
+            },
+            "orgunitScope": false,
+            "pattern": "",
+            "shortName": "Sex",
+            "skipSynchronization": false,
+            "translations": [],
+            "unique": false,
+            "valueType": "TEXT"
+        },
+        {
+            "aggregationType": "NONE",
+            "attributeValues": [],
+            "code": "SPEC_TYPE_AN",
+            "confidential": false,
+            "created": "2021-06-22T21:11:11.408",
+            "displayInListNoProgram": false,
+            "displayOnVisitSchedule": false,
+            "generated": false,
+            "id": "Cex2g45wMZy",
+            "inherit": false,
+            "lastUpdated": "2021-06-22T21:11:11.408",
+            "legendSets": [],
+            "name": "Specimen Type (Animal)",
+            "optionSet": {
+                "id": "OGjIgXjSyB1"
+            },
+            "orgunitScope": false,
+            "pattern": "",
+            "shortName": "Specimen Type (A)",
+            "skipSynchronization": false,
+            "translations": [],
+            "unique": false,
+            "valueType": "TEXT"
+        },
+        {
+            "aggregationType": "NONE",
+            "attributeValues": [],
+            "code": "SPEC_TYPE_EN",
+            "confidential": false,
+            "created": "2021-06-22T21:15:27.905",
+            "displayInListNoProgram": false,
+            "displayOnVisitSchedule": false,
+            "generated": false,
+            "id": "HkkJZJ70OZq",
+            "inherit": false,
+            "lastUpdated": "2021-06-22T21:15:27.905",
+            "legendSets": [],
+            "name": "Specimen Type (Environment)",
+            "optionSet": {
+                "id": "Xhoz6BW4aiz"
+            },
+            "orgunitScope": false,
+            "pattern": "",
+            "shortName": "Specimen Type (EN)",
+            "skipSynchronization": false,
+            "translations": [],
+            "unique": false,
+            "valueType": "TEXT"
+        },
+        {
+            "aggregationType": "NONE",
+            "attributeValues": [],
+            "code": "SPEC_TYPE_FE",
+            "confidential": false,
+            "created": "2021-06-22T21:16:26.621",
+            "displayInListNoProgram": false,
+            "displayOnVisitSchedule": false,
+            "generated": false,
+            "id": "lFyQfRk7yUv",
+            "inherit": false,
+            "lastUpdated": "2021-06-22T21:16:26.621",
+            "legendSets": [],
+            "name": "Specimen Type (Feed)",
+            "optionSet": {
+                "id": "moqzolg95jF"
+            },
+            "orgunitScope": false,
+            "pattern": "",
+            "shortName": "Specimen Type (Fe)",
+            "skipSynchronization": false,
+            "translations": [],
+            "unique": false,
+            "valueType": "TEXT"
+        },
+        {
+            "aggregationType": "NONE",
+            "attributeValues": [],
+            "code": "SPEC_TYPE_FO",
+            "confidential": false,
+            "created": "2021-06-22T21:18:28.452",
+            "displayInListNoProgram": false,
+            "displayOnVisitSchedule": false,
+            "generated": false,
+            "id": "oWzw3X5aKL3",
+            "inherit": false,
+            "lastUpdated": "2021-06-22T21:18:28.452",
+            "legendSets": [],
+            "name": "Specimen Type (Food)",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "orgunitScope": false,
+            "pattern": "",
+            "shortName": "Specimen Type (Fo)",
+            "skipSynchronization": false,
+            "translations": [],
+            "unique": false,
+            "valueType": "TEXT"
+        },
+        {
+            "aggregationType": "NONE",
+            "attributeValues": [],
+            "code": "SPEC_TYPE_HU",
+            "confidential": false,
+            "created": "2021-06-22T21:12:36.985",
+            "displayInListNoProgram": false,
+            "displayOnVisitSchedule": false,
+            "generated": false,
+            "id": "NoTuZ3jydbw",
+            "inherit": false,
+            "lastUpdated": "2021-06-22T21:12:36.985",
+            "legendSets": [],
+            "name": "Specimen Type (Human)",
+            "optionSet": {
+                "id": "IR7yv5Mn4BE"
+            },
+            "orgunitScope": false,
+            "pattern": "",
+            "shortName": "Specimen Type (H)",
+            "skipSynchronization": false,
+            "translations": [],
+            "unique": false,
+            "valueType": "TEXT"
+        }
+    ],
+    "trackedEntityTypes": [
+        {
+            "allowAuditLog": false,
+            "attributeValues": [],
+            "created": "2021-05-26T04:21:35.404",
+            "description": "This is a generic type class for AMR. The tracked entities are in effect a pathogen sample, and may have come from human, animal, environmental, food or feed samples. At a minimum, each instance of the AMR Entity must have an identification number. The metadata associated with the specific source of entity is captured at the tracked program level.",
+            "featureType": "NONE",
+            "id": "tuhi0maUrlh",
+            "lastUpdated": "2021-06-28T04:44:30.745",
+            "maxTeiCountToReturn": 0,
+            "minAttributesRequiredToSearch": 1,
+            "name": "AMR Entity",
+            "trackedEntityTypeAttributes": [
+                {
+                    "access": {
+                        "delete": true,
+                        "externalize": true,
+                        "manage": true,
+                        "read": true,
+                        "update": true,
+                        "write": true
+                    },
+                    "attributeValues": [],
+                    "created": "2021-06-28T04:44:30.416",
+                    "displayInList": false,
+                    "displayName": "AMR Entity ID_OH_AMR",
+                    "displayShortName": "null ID_OH_AMR",
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "kjTAinxwBfO",
+                    "lastUpdated": "2021-06-28T04:44:30.750",
+                    "name": "AMR Entity ID_OH_AMR",
+                    "searchable": false,
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "trackedEntityAttribute": {
+                        "id": "qaQzslMuVac"
+                    },
+                    "trackedEntityType": {
+                        "id": "tuhi0maUrlh"
+                    },
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "valueType": "TEXT"
+                },
+                {
+                    "access": {
+                        "delete": true,
+                        "externalize": true,
+                        "manage": true,
+                        "read": true,
+                        "update": true,
+                        "write": true
+                    },
+                    "attributeValues": [],
+                    "created": "2021-06-14T23:32:35.597",
+                    "displayInList": false,
+                    "displayName": "AMR Entity ID_OriginatingEntity",
+                    "displayShortName": "null ID_OriginatingEntity",
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "orS8PXOLUDs",
+                    "lastUpdated": "2021-06-28T04:44:30.752",
+                    "mandatory": false,
+                    "name": "AMR Entity ID_OriginatingEntity",
+                    "searchable": true,
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "trackedEntityAttribute": {
+                        "id": "QznE0JyWMCT"
+                    },
+                    "trackedEntityType": {
+                        "id": "tuhi0maUrlh"
+                    },
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "valueType": "TEXT"
+                },
+                {
+                    "access": {
+                        "delete": true,
+                        "externalize": true,
+                        "manage": true,
+                        "read": true,
+                        "update": true,
+                        "write": true
+                    },
+                    "attributeValues": [],
+                    "created": "2021-06-28T04:44:30.416",
+                    "displayInList": false,
+                    "displayName": "AMR Entity ID_Specimen",
+                    "displayShortName": "null ID_Specimen",
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "p8xf3CadHUk",
+                    "lastUpdated": "2021-06-28T04:44:30.753",
+                    "name": "AMR Entity ID_Specimen",
+                    "searchable": true,
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "trackedEntityAttribute": {
+                        "id": "eaqQd1d6yAV"
+                    },
+                    "trackedEntityType": {
+                        "id": "tuhi0maUrlh"
+                    },
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "valueType": "TEXT"
+                }
+            ],
+            "translations": []
+        }
+    ]
+}
