@@ -1,0 +1,1369 @@
+{
+    "date": "2021-06-28T02:45:29.577",
+    "optionSets": [
+        {
+            "attributeValues": [],
+            "created": "2021-06-11T02:06:53.534",
+            "id": "n4XWK6sxsjP",
+            "lastUpdated": "2021-06-21T01:55:39.023",
+            "name": "Specimen type (Food)",
+            "options": [
+                {
+                    "id": "n3wOxc93L0W"
+                },
+                {
+                    "id": "cNkHyrd6LVf"
+                },
+                {
+                    "id": "qfXJof7cFgg"
+                },
+                {
+                    "id": "lKeUbNaNosR"
+                },
+                {
+                    "id": "zYoG1vMkyRN"
+                },
+                {
+                    "id": "IW2Fg0PR7X4"
+                },
+                {
+                    "id": "m2wuUVGWxfV"
+                },
+                {
+                    "id": "G6uvJ63Fnhe"
+                },
+                {
+                    "id": "SGM79oUgLd4"
+                },
+                {
+                    "id": "qpPOjd4Ou0q"
+                },
+                {
+                    "id": "YkzM2Eed10B"
+                },
+                {
+                    "id": "iF8bc3ya9Yn"
+                },
+                {
+                    "id": "QGK70loJjRt"
+                },
+                {
+                    "id": "HlQyk1ho96E"
+                },
+                {
+                    "id": "z89FBVvFdCo"
+                },
+                {
+                    "id": "ZlAQFzq3eXx"
+                },
+                {
+                    "id": "R0tf4NFw7XC"
+                },
+                {
+                    "id": "cLxB4odrwzL"
+                },
+                {
+                    "id": "yHABTU3vQFf"
+                },
+                {
+                    "id": "rhNyxWxxkp1"
+                },
+                {
+                    "id": "DUKiuEkeJgD"
+                },
+                {
+                    "id": "FRlhxi62R33"
+                },
+                {
+                    "id": "oQtBuvS2OdL"
+                },
+                {
+                    "id": "hKiGGd9tQ4j"
+                },
+                {
+                    "id": "HXFqhUqti2B"
+                },
+                {
+                    "id": "U2Ba5dodhF9"
+                },
+                {
+                    "id": "h18IIqcJmbR"
+                },
+                {
+                    "id": "DlYe1nutBLI"
+                },
+                {
+                    "id": "F8xMLktZDT8"
+                },
+                {
+                    "id": "YoL4DdWTsm9"
+                },
+                {
+                    "id": "hlrM9z6K26g"
+                },
+                {
+                    "id": "o289YHLulcr"
+                },
+                {
+                    "id": "QnyK4L09Xfv"
+                },
+                {
+                    "id": "NbLZPX4Mvm1"
+                },
+                {
+                    "id": "yPbcXxxmdEz"
+                },
+                {
+                    "id": "Ax8VejnNtGa"
+                },
+                {
+                    "id": "juMxZ93XjPJ"
+                },
+                {
+                    "id": "UkYIVkaCGy3"
+                },
+                {
+                    "id": "o9Ouc2NqkIx"
+                },
+                {
+                    "id": "sUbcWYrCmYT"
+                },
+                {
+                    "id": "sMlWfk11C5U"
+                },
+                {
+                    "id": "RRqCV9mRJyU"
+                },
+                {
+                    "id": "cOsurtaRvKm"
+                },
+                {
+                    "id": "Bbhpce4zidw"
+                },
+                {
+                    "id": "orjRZmGwoFS"
+                },
+                {
+                    "id": "N1fYlKQK0v5"
+                },
+                {
+                    "id": "HHfmE6gEDVd"
+                },
+                {
+                    "id": "ullLfJrCftc"
+                },
+                {
+                    "id": "cAHlzhm44oV"
+                },
+                {
+                    "id": "VDiOFD5RjSO"
+                },
+                {
+                    "id": "RnlhCUCnINS"
+                },
+                {
+                    "id": "HADm9dtLLLr"
+                },
+                {
+                    "id": "WzIaPQZaMtq"
+                },
+                {
+                    "id": "UNtwHoxKTIW"
+                },
+                {
+                    "id": "SPt9M9bC6Jz"
+                },
+                {
+                    "id": "LzhzmUIjvNZ"
+                },
+                {
+                    "id": "V4tXFnDtrSV"
+                },
+                {
+                    "id": "YG7wCdnBj3E"
+                },
+                {
+                    "id": "uCAso9a9Tep"
+                },
+                {
+                    "id": "uhDltQYlFdB"
+                },
+                {
+                    "id": "dUsgBJUjUYE"
+                },
+                {
+                    "id": "R4ivshN1oyX"
+                },
+                {
+                    "id": "RNDaNrpMA5F"
+                },
+                {
+                    "id": "M7zE86vtLjJ"
+                },
+                {
+                    "id": "gAx6PbXrquc"
+                },
+                {
+                    "id": "wNS455YEUdq"
+                },
+                {
+                    "id": "FTl8gMdDLbC"
+                },
+                {
+                    "id": "QmAn5vEs9uJ"
+                },
+                {
+                    "id": "AYUfYhK5e48"
+                },
+                {
+                    "id": "dz7ldUyOoaf"
+                },
+                {
+                    "id": "Cs76TR3JaxT"
+                },
+                {
+                    "id": "vwjjKmVSr4Z"
+                },
+                {
+                    "id": "kZhQAPQUtcn"
+                },
+                {
+                    "id": "g4fUJk5KD6V"
+                },
+                {
+                    "id": "uyIblmKuBBx"
+                },
+                {
+                    "id": "UI9OAcIfAzE"
+                },
+                {
+                    "id": "gFBRtqRVnzY"
+                },
+                {
+                    "id": "UOnFsfx4BQd"
+                },
+                {
+                    "id": "MuJnhAmaEuM"
+                },
+                {
+                    "id": "F9PvlZX4LpP"
+                },
+                {
+                    "id": "dsLP2dXGris"
+                },
+                {
+                    "id": "s4i4DMdX6zr"
+                },
+                {
+                    "id": "XzS8aR7CtFw"
+                },
+                {
+                    "id": "RWEJfHeBEbA"
+                }
+            ],
+            "sharing": {
+                "external": false,
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "translations": [],
+            "valueType": "TEXT",
+            "version": 11
+        }
+    ],
+    "options": [
+        {
+            "attributeValues": [],
+            "code": "4.1",
+            "created": "2021-06-11T02:06:53.534",
+            "id": "R0tf4NFw7XC",
+            "lastUpdated": "2021-06-11T02:06:53.544",
+            "name": "Fruit",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 17,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "2.3",
+            "created": "2021-06-11T02:06:53.534",
+            "id": "QGK70loJjRt",
+            "lastUpdated": "2021-06-11T02:06:53.544",
+            "name": "Fat emulsion",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 13,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "9.2",
+            "created": "2021-06-11T02:06:53.534",
+            "id": "sMlWfk11C5U",
+            "lastUpdated": "2021-06-11T02:06:53.544",
+            "name": "Fish, shellfish (processed)",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 41,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "8.3",
+            "created": "2021-06-11T02:06:53.534",
+            "id": "juMxZ93XjPJ",
+            "lastUpdated": "2021-06-11T02:06:53.544",
+            "name": "Processed meat (comminuted)",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 37,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "12.5",
+            "created": "2021-06-11T02:06:53.534",
+            "id": "YG7wCdnBj3E",
+            "lastUpdated": "2021-06-11T02:06:53.544",
+            "name": "Soup",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 58,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "12.2",
+            "created": "2021-06-11T02:06:53.534",
+            "id": "SPt9M9bC6Jz",
+            "lastUpdated": "2021-06-11T02:06:53.544",
+            "name": "Spice",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 55,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "1.1",
+            "created": "2021-06-11T02:06:53.534",
+            "id": "cNkHyrd6LVf",
+            "lastUpdated": "2021-06-11T02:06:53.544",
+            "name": "Milk",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 2,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "10.4",
+            "created": "2021-06-11T02:06:53.534",
+            "id": "HHfmE6gEDVd",
+            "lastUpdated": "2021-06-11T02:06:53.544",
+            "name": "Egg-based desert",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 47,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "4.2",
+            "created": "2021-06-11T02:06:53.534",
+            "id": "cLxB4odrwzL",
+            "lastUpdated": "2021-06-11T02:06:53.544",
+            "name": "Vegetable, nuts",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 18,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "15.1",
+            "created": "2021-06-11T02:06:53.534",
+            "id": "Cs76TR3JaxT",
+            "lastUpdated": "2021-06-11T02:06:53.545",
+            "name": "Snack",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 71,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "6.4",
+            "created": "2021-06-11T02:06:53.534",
+            "id": "DlYe1nutBLI",
+            "lastUpdated": "2021-06-11T02:06:53.544",
+            "name": "Pasta",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 28,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "13.2",
+            "created": "2021-06-11T02:06:53.534",
+            "id": "R4ivshN1oyX",
+            "lastUpdated": "2021-06-11T02:06:53.545",
+            "name": "Weaning food",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 62,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "8.1",
+            "created": "2021-06-11T02:06:53.534",
+            "id": "yPbcXxxmdEz",
+            "lastUpdated": "2021-06-11T02:06:53.544",
+            "name": "Fresh meat",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 35,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "9",
+            "created": "2021-06-11T02:06:53.534",
+            "id": "o9Ouc2NqkIx",
+            "lastUpdated": "2021-06-11T02:06:53.544",
+            "name": "Fish, shellfish (unspecified)",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 39,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "9.1",
+            "created": "2021-06-11T02:06:53.534",
+            "id": "sUbcWYrCmYT",
+            "lastUpdated": "2021-06-11T02:06:53.544",
+            "name": "Fish, shellfish (fresh)",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 40,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "14.1.1",
+            "created": "2021-06-21T01:55:38.248",
+            "id": "RWEJfHeBEbA",
+            "lastUpdated": "2021-06-21T01:55:38.275",
+            "name": "Water",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 84,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "10.3",
+            "created": "2021-06-11T02:06:53.534",
+            "id": "N1fYlKQK0v5",
+            "lastUpdated": "2021-06-11T02:06:53.544",
+            "name": "Preserved egg",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 46,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "5.1",
+            "created": "2021-06-11T02:06:53.534",
+            "id": "rhNyxWxxkp1",
+            "lastUpdated": "2021-06-11T02:06:53.544",
+            "name": "Chocolate",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 20,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "2.2",
+            "created": "2021-06-11T02:06:53.534",
+            "id": "iF8bc3ya9Yn",
+            "lastUpdated": "2021-06-11T02:06:53.544",
+            "name": "Butter, margarine",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 12,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "7.2",
+            "created": "2021-06-11T02:06:53.534",
+            "id": "QnyK4L09Xfv",
+            "lastUpdated": "2021-06-11T02:06:53.544",
+            "name": "Fine baked good",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 33,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "9.1.2",
+            "created": "2021-06-21T01:54:24.671",
+            "id": "s4i4DMdX6zr",
+            "lastUpdated": "2021-06-21T01:54:24.683",
+            "name": "Shellfish (fresh)",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 82,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "5.3",
+            "created": "2021-06-11T02:06:53.534",
+            "id": "FRlhxi62R33",
+            "lastUpdated": "2021-06-11T02:06:53.544",
+            "name": "Chewing gum",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 22,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "12.4",
+            "created": "2021-06-11T02:06:53.534",
+            "id": "V4tXFnDtrSV",
+            "lastUpdated": "2021-06-11T02:06:53.544",
+            "name": "Mustard",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 57,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "2.1",
+            "created": "2021-06-11T02:06:53.534",
+            "id": "YkzM2Eed10B",
+            "lastUpdated": "2021-06-11T02:06:53.544",
+            "name": "Vegetable oil, animal fat",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 11,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "9.1.1",
+            "created": "2021-06-21T01:49:41.646",
+            "id": "UI9OAcIfAzE",
+            "lastUpdated": "2021-06-21T01:49:41.660",
+            "name": "Fish (fresh)",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 76,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "13",
+            "created": "2021-06-11T02:06:53.534",
+            "id": "uhDltQYlFdB",
+            "lastUpdated": "2021-06-11T02:06:53.545",
+            "name": "Food for particular nutritional use (unspecified)",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 60,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "8",
+            "created": "2021-06-11T02:06:53.534",
+            "id": "NbLZPX4Mvm1",
+            "lastUpdated": "2021-06-11T02:06:53.544",
+            "name": "Meat, meat product (unspecified)",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 34,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "1.2",
+            "created": "2021-06-11T02:06:53.534",
+            "id": "qfXJof7cFgg",
+            "lastUpdated": "2021-06-11T02:06:53.544",
+            "name": "Fermented milk",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 3,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "11.1",
+            "created": "2021-06-11T02:06:53.534",
+            "id": "cAHlzhm44oV",
+            "lastUpdated": "2021-06-11T02:06:53.544",
+            "name": "White sugar",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 49,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "14.1.4",
+            "created": "2021-06-21T01:55:10.193",
+            "id": "XzS8aR7CtFw",
+            "lastUpdated": "2021-06-21T01:55:10.204",
+            "name": "Soft drink",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 83,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "8.4",
+            "created": "2021-06-11T02:06:53.534",
+            "id": "UkYIVkaCGy3",
+            "lastUpdated": "2021-06-11T02:06:53.544",
+            "name": "Sausage casings",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 38,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "5",
+            "created": "2021-06-11T02:06:53.534",
+            "id": "yHABTU3vQFf",
+            "lastUpdated": "2021-06-11T02:06:53.544",
+            "name": "Confectionery (unspecified)",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 19,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "13.5",
+            "created": "2021-06-11T02:06:53.534",
+            "id": "gAx6PbXrquc",
+            "lastUpdated": "2021-06-11T02:06:53.545",
+            "name": "Dietetic food (other)",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 65,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "14.2",
+            "created": "2021-06-11T02:06:53.534",
+            "id": "AYUfYhK5e48",
+            "lastUpdated": "2021-06-11T02:06:53.545",
+            "name": "Alcohol",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 69,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "6.5",
+            "created": "2021-06-11T02:06:53.534",
+            "id": "F8xMLktZDT8",
+            "lastUpdated": "2021-06-11T02:06:53.544",
+            "name": "Cereal dessert",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 29,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "11",
+            "created": "2021-06-11T02:06:53.534",
+            "id": "ullLfJrCftc",
+            "lastUpdated": "2021-06-11T02:06:53.544",
+            "name": "Sweetener (unspecified)",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 48,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "14.1.2",
+            "created": "2021-06-21T01:51:05.676",
+            "id": "UOnFsfx4BQd",
+            "lastUpdated": "2021-06-21T01:51:05.686",
+            "name": "Juice",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 78,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "14",
+            "created": "2021-06-11T02:06:53.534",
+            "id": "FTl8gMdDLbC",
+            "lastUpdated": "2021-06-11T02:06:53.545",
+            "name": "Beverage (unspecified)",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 67,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "15",
+            "created": "2021-06-11T02:06:53.534",
+            "id": "dz7ldUyOoaf",
+            "lastUpdated": "2021-06-11T02:06:53.545",
+            "name": "Ready-to-eat food (unspecified)",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 70,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "4.1.1",
+            "created": "2021-06-21T01:48:36.984",
+            "id": "uyIblmKuBBx",
+            "lastUpdated": "2021-06-21T01:48:36.995",
+            "name": "Fresh fruit",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 75,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "1.8",
+            "created": "2021-06-11T02:06:53.534",
+            "id": "SGM79oUgLd4",
+            "lastUpdated": "2021-06-11T02:06:53.544",
+            "name": "Whey",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 9,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "9.3",
+            "created": "2021-06-11T02:06:53.534",
+            "id": "RRqCV9mRJyU",
+            "lastUpdated": "2021-06-11T02:06:53.544",
+            "name": "Fish, shellfish (semi-processed)",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 42,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "11.4",
+            "created": "2021-06-11T02:06:53.534",
+            "id": "HADm9dtLLLr",
+            "lastUpdated": "2021-06-11T02:06:53.544",
+            "name": "Table-top sweeteners",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 52,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "7",
+            "created": "2021-06-11T02:06:53.534",
+            "id": "hlrM9z6K26g",
+            "lastUpdated": "2021-06-11T02:06:53.544",
+            "name": "Baked good (unspecified)",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 31,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "1.6",
+            "created": "2021-06-11T02:06:53.534",
+            "id": "m2wuUVGWxfV",
+            "lastUpdated": "2021-06-11T02:06:53.544",
+            "name": "Cheese",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 7,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "14.1.5",
+            "created": "2021-06-21T01:47:47.636",
+            "id": "g4fUJk5KD6V",
+            "lastUpdated": "2021-06-21T01:47:47.651",
+            "name": "Coffee, tea",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 74,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "4",
+            "created": "2021-06-11T02:06:53.534",
+            "id": "ZlAQFzq3eXx",
+            "lastUpdated": "2021-06-11T02:06:53.544",
+            "name": "Fruit, vegetable, nuts (unspecified)",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 16,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "13.3",
+            "created": "2021-06-11T02:06:53.534",
+            "id": "RNDaNrpMA5F",
+            "lastUpdated": "2021-06-11T02:06:53.545",
+            "name": "Dietetic food (medical)",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 63,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "12.1",
+            "created": "2021-06-11T02:06:53.534",
+            "id": "UNtwHoxKTIW",
+            "lastUpdated": "2021-06-11T02:06:53.544",
+            "name": "Salt",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 54,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "2.4",
+            "created": "2021-06-11T02:06:53.534",
+            "id": "HlQyk1ho96E",
+            "lastUpdated": "2021-06-11T02:06:53.544",
+            "name": "Fat-based dessert",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 14,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "6.6",
+            "created": "2021-06-11T02:06:53.534",
+            "id": "YoL4DdWTsm9",
+            "lastUpdated": "2021-06-11T02:06:53.544",
+            "name": "Batter",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 30,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "3",
+            "created": "2021-06-11T02:06:53.534",
+            "id": "z89FBVvFdCo",
+            "lastUpdated": "2021-06-11T02:06:53.544",
+            "name": "Sherbet, sorbet",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 15,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "11.3",
+            "created": "2021-06-11T02:06:53.534",
+            "id": "RnlhCUCnINS",
+            "lastUpdated": "2021-06-11T02:06:53.544",
+            "name": "Honey",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 51,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "15.2",
+            "created": "2021-06-11T02:06:53.534",
+            "id": "vwjjKmVSr4Z",
+            "lastUpdated": "2021-06-11T02:06:53.545",
+            "name": "Processed nuts",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 72,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "14.1.3",
+            "created": "2021-06-21T01:51:51.438",
+            "id": "MuJnhAmaEuM",
+            "lastUpdated": "2021-06-21T01:51:51.448",
+            "name": "Nectar",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 79,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "4.1.2",
+            "created": "2021-06-21T01:52:32.522",
+            "id": "F9PvlZX4LpP",
+            "lastUpdated": "2021-06-21T01:52:32.534",
+            "name": "Processed fruit",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 80,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "2",
+            "created": "2021-06-11T02:06:53.534",
+            "id": "qpPOjd4Ou0q",
+            "lastUpdated": "2021-06-11T02:06:53.544",
+            "name": "Fat, oil (unspecified)",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 10,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "7.1",
+            "created": "2021-06-11T02:06:53.534",
+            "id": "o289YHLulcr",
+            "lastUpdated": "2021-06-11T02:06:53.544",
+            "name": "Bread",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 32,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "16",
+            "created": "2021-06-11T02:06:53.534",
+            "id": "kZhQAPQUtcn",
+            "lastUpdated": "2021-06-11T02:06:53.545",
+            "name": "Composite food, other food",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 73,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "4.2.2",
+            "created": "2021-06-21T01:53:14.449",
+            "id": "dsLP2dXGris",
+            "lastUpdated": "2021-06-21T01:53:14.459",
+            "name": "Processed vegetables and nuts",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 81,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "8.2",
+            "created": "2021-06-11T02:06:53.534",
+            "id": "Ax8VejnNtGa",
+            "lastUpdated": "2021-06-11T02:06:53.544",
+            "name": "Processed meat (whole pieces)",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 36,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "10.2",
+            "created": "2021-06-11T02:06:53.534",
+            "id": "orjRZmGwoFS",
+            "lastUpdated": "2021-06-11T02:06:53.544",
+            "name": "Egg product",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 45,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "1.4",
+            "created": "2021-06-11T02:06:53.534",
+            "id": "zYoG1vMkyRN",
+            "lastUpdated": "2021-06-11T02:06:53.544",
+            "name": "Cream",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 5,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "6.2",
+            "created": "2021-06-11T02:06:53.534",
+            "id": "U2Ba5dodhF9",
+            "lastUpdated": "2021-06-11T02:06:53.544",
+            "name": "Flour",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 26,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "12.3",
+            "created": "2021-06-11T02:06:53.534",
+            "id": "LzhzmUIjvNZ",
+            "lastUpdated": "2021-06-11T02:06:53.544",
+            "name": "Vinegar",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 56,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "12.6",
+            "created": "2021-06-11T02:06:53.534",
+            "id": "uCAso9a9Tep",
+            "lastUpdated": "2021-06-11T02:06:53.544",
+            "name": "Sauce",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 59,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "13.1",
+            "created": "2021-06-11T02:06:53.534",
+            "id": "dUsgBJUjUYE",
+            "lastUpdated": "2021-06-11T02:06:53.545",
+            "name": "Infant formula",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 61,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "13.6",
+            "created": "2021-06-11T02:06:53.534",
+            "id": "wNS455YEUdq",
+            "lastUpdated": "2021-06-11T02:06:53.545",
+            "name": "Food supplement",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 66,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "14.1",
+            "created": "2021-06-11T02:06:53.534",
+            "id": "QmAn5vEs9uJ",
+            "lastUpdated": "2021-06-11T02:06:53.545",
+            "name": "Non-alcoholic beverage",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 68,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "5.2",
+            "created": "2021-06-11T02:06:53.534",
+            "id": "DUKiuEkeJgD",
+            "lastUpdated": "2021-06-11T02:06:53.544",
+            "name": "Candy",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 21,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "12",
+            "created": "2021-06-11T02:06:53.534",
+            "id": "WzIaPQZaMtq",
+            "lastUpdated": "2021-06-11T02:06:53.544",
+            "name": "Salts, spices, soups, sauces, etc. (unspecified)",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 53,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "1.7",
+            "created": "2021-06-11T02:06:53.534",
+            "id": "G6uvJ63Fnhe",
+            "lastUpdated": "2021-06-11T02:06:53.544",
+            "name": "Ice cream, pudding, yoghurt",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 8,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "6",
+            "created": "2021-06-11T02:06:53.534",
+            "id": "hKiGGd9tQ4j",
+            "lastUpdated": "2021-06-11T02:06:53.544",
+            "name": "Cereal, cereal product (unspecified)",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 24,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "13.4",
+            "created": "2021-06-11T02:06:53.534",
+            "id": "M7zE86vtLjJ",
+            "lastUpdated": "2021-06-11T02:06:53.545",
+            "name": "Dietetic food (weight loss)",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 64,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "1.5",
+            "created": "2021-06-11T02:06:53.534",
+            "id": "IW2Fg0PR7X4",
+            "lastUpdated": "2021-06-11T02:06:53.544",
+            "name": "Milk powder",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 6,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "5.4",
+            "created": "2021-06-11T02:06:53.534",
+            "id": "oQtBuvS2OdL",
+            "lastUpdated": "2021-06-11T02:06:53.544",
+            "name": "Topping",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 23,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "10",
+            "created": "2021-06-11T02:06:53.534",
+            "id": "cOsurtaRvKm",
+            "lastUpdated": "2021-06-11T02:06:53.544",
+            "name": "Egg, egg products (unspecified)",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 43,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "6.3",
+            "created": "2021-06-11T02:06:53.534",
+            "id": "h18IIqcJmbR",
+            "lastUpdated": "2021-06-11T02:06:53.544",
+            "name": "Breakfast cereal",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 27,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "4.2.1",
+            "created": "2021-06-21T01:50:26.559",
+            "id": "gFBRtqRVnzY",
+            "lastUpdated": "2021-06-21T01:50:26.573",
+            "name": "Fresh vegetable",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 77,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "10.1",
+            "created": "2021-06-11T02:06:53.534",
+            "id": "Bbhpce4zidw",
+            "lastUpdated": "2021-06-11T02:06:53.544",
+            "name": "Fresh egg",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 44,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "6.1",
+            "created": "2021-06-11T02:06:53.534",
+            "id": "HXFqhUqti2B",
+            "lastUpdated": "2021-06-11T02:06:53.544",
+            "name": "Whole grain, including rice",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 25,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "1",
+            "created": "2021-06-11T02:06:53.534",
+            "id": "n3wOxc93L0W",
+            "lastUpdated": "2021-06-11T02:06:53.544",
+            "name": "Dairy product (unspecified)",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 1,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "11.2",
+            "created": "2021-06-11T02:06:53.534",
+            "id": "VDiOFD5RjSO",
+            "lastUpdated": "2021-06-11T02:06:53.544",
+            "name": "Other sugars and syrups",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 50,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "1.3",
+            "created": "2021-06-11T02:06:53.534",
+            "id": "lKeUbNaNosR",
+            "lastUpdated": "2021-06-11T02:06:53.544",
+            "name": "Condensed milk",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sortOrder": 4,
+            "translations": []
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "date": "2021-06-28T02:43:21.676",
+    "optionSets": [
+        {
+            "attributeValues": [],
+            "created": "2021-05-25T00:56:21.746",
+            "id": "yeY3gSTHyTU",
+            "lastUpdated": "2021-05-25T00:56:21.771",
+            "name": "Sex",
+            "options": [
+                {
+                    "id": "xjeKVsowLze"
+                },
+                {
+                    "id": "EoFZ6lcYFbD"
+                },
+                {
+                    "id": "SJTvue1eC8x"
+                }
+            ],
+            "sharing": {
+                "external": false,
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "translations": [],
+            "valueType": "TEXT",
+            "version": 0
+        }
+    ],
+    "options": [
+        {
+            "attributeValues": [],
+            "code": "m",
+            "created": "2021-05-25T00:56:21.746",
+            "id": "EoFZ6lcYFbD",
+            "lastUpdated": "2021-05-25T00:56:21.759",
+            "name": "Male",
+            "optionSet": {
+                "id": "yeY3gSTHyTU"
+            },
+            "sortOrder": 2,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "u",
+            "created": "2021-05-25T00:56:21.746",
+            "id": "SJTvue1eC8x",
+            "lastUpdated": "2021-05-25T00:56:21.759",
+            "name": "Sex Unstated",
+            "optionSet": {
+                "id": "yeY3gSTHyTU"
+            },
+            "sortOrder": 3,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "f",
+            "created": "2021-05-25T00:56:21.746",
+            "id": "xjeKVsowLze",
+            "lastUpdated": "2021-05-25T00:56:21.759",
+            "name": "Female",
+            "optionSet": {
+                "id": "yeY3gSTHyTU"
+            },
+            "sortOrder": 1,
+            "translations": []
+        }
+    ]
+}

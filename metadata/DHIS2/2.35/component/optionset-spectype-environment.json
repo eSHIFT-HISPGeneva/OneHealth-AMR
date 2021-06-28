@@ -1,0 +1,489 @@
+{
+    "date": "2021-06-28T02:44:43.244",
+    "optionSets": [
+        {
+            "attributeValues": [],
+            "created": "2021-06-11T02:04:58.562",
+            "id": "Xhoz6BW4aiz",
+            "lastUpdated": "2021-06-11T02:10:01.983",
+            "name": "Specimen type (Environment)",
+            "options": [
+                {
+                    "id": "L65x5dKnPd3"
+                },
+                {
+                    "id": "Ef76QjsTaC3"
+                },
+                {
+                    "id": "C0Uaa8ZqhoD"
+                },
+                {
+                    "id": "MtSNdUW1zxY"
+                },
+                {
+                    "id": "upWDf11LWHz"
+                },
+                {
+                    "id": "XSIJpJGVUzs"
+                },
+                {
+                    "id": "ITxFxVuk5v5"
+                },
+                {
+                    "id": "AvD4UEXtqas"
+                },
+                {
+                    "id": "STXOSgCJlSC"
+                },
+                {
+                    "id": "RqIfv56Pa0k"
+                },
+                {
+                    "id": "hrdvQPXwyTp"
+                },
+                {
+                    "id": "AnmXZCQxEG7"
+                },
+                {
+                    "id": "r600UEzuof2"
+                },
+                {
+                    "id": "DdKuADjvq8x"
+                },
+                {
+                    "id": "AoYx3OsCFmb"
+                },
+                {
+                    "id": "qKdVldrQQEI"
+                },
+                {
+                    "id": "OveqHGXmNjC"
+                },
+                {
+                    "id": "SZ1JHsZLlfV"
+                },
+                {
+                    "id": "nCpudDLU8V3"
+                },
+                {
+                    "id": "ZK8UaBKVm92"
+                },
+                {
+                    "id": "WFek8bDukZJ"
+                },
+                {
+                    "id": "CwRYFuAD5c8"
+                },
+                {
+                    "id": "dhaWAxahR5Z"
+                },
+                {
+                    "id": "clE50uidP4h"
+                },
+                {
+                    "id": "DInejfKhi9D"
+                },
+                {
+                    "id": "v08GABhMaP1"
+                },
+                {
+                    "id": "kUN1YTWcRqG"
+                },
+                {
+                    "id": "GscXPRKgpPG"
+                },
+                {
+                    "id": "WMWoczfrfqS"
+                }
+            ],
+            "sharing": {
+                "external": false,
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "translations": [],
+            "valueType": "TEXT",
+            "version": 1
+        }
+    ],
+    "options": [
+        {
+            "attributeValues": [],
+            "code": "wariv",
+            "created": "2021-06-11T02:04:58.562",
+            "id": "dhaWAxahR5Z",
+            "lastUpdated": "2021-06-11T02:04:58.575",
+            "name": "Water, river",
+            "optionSet": {
+                "id": "Xhoz6BW4aiz"
+            },
+            "sortOrder": 23,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "cage",
+            "created": "2021-06-11T02:04:58.562",
+            "id": "XSIJpJGVUzs",
+            "lastUpdated": "2021-06-11T02:04:58.575",
+            "name": "Cage",
+            "optionSet": {
+                "id": "Xhoz6BW4aiz"
+            },
+            "sortOrder": 6,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "pendrag",
+            "created": "2021-06-11T02:04:58.562",
+            "id": "L65x5dKnPd3",
+            "lastUpdated": "2021-06-11T02:04:58.574",
+            "name": "Animal pen, drag swab",
+            "optionSet": {
+                "id": "Xhoz6BW4aiz"
+            },
+            "sortOrder": 1,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "soil",
+            "created": "2021-06-11T02:04:58.562",
+            "id": "r600UEzuof2",
+            "lastUpdated": "2021-06-11T02:04:58.575",
+            "name": "Soil",
+            "optionSet": {
+                "id": "Xhoz6BW4aiz"
+            },
+            "sortOrder": 13,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "comp",
+            "created": "2021-06-11T02:04:58.562",
+            "id": "ITxFxVuk5v5",
+            "lastUpdated": "2021-06-11T02:04:58.575",
+            "name": "Compost",
+            "optionSet": {
+                "id": "Xhoz6BW4aiz"
+            },
+            "sortOrder": 7,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "watreat",
+            "created": "2021-06-11T02:04:58.562",
+            "id": "DInejfKhi9D",
+            "lastUpdated": "2021-06-11T02:04:58.575",
+            "name": "Water, treated",
+            "optionSet": {
+                "id": "Xhoz6BW4aiz"
+            },
+            "sortOrder": 25,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "sed",
+            "created": "2021-06-11T02:04:58.562",
+            "id": "AnmXZCQxEG7",
+            "lastUpdated": "2021-06-11T02:04:58.575",
+            "name": "Sediment",
+            "optionSet": {
+                "id": "Xhoz6BW4aiz"
+            },
+            "sortOrder": 12,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "equip",
+            "created": "2021-06-11T02:04:58.562",
+            "id": "AvD4UEXtqas",
+            "lastUpdated": "2021-06-11T02:04:58.575",
+            "name": "Equipment",
+            "optionSet": {
+                "id": "Xhoz6BW4aiz"
+            },
+            "sortOrder": 8,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "penfood",
+            "created": "2021-06-11T02:04:58.562",
+            "id": "C0Uaa8ZqhoD",
+            "lastUpdated": "2021-06-11T02:04:58.575",
+            "name": "Animal pen, food supply",
+            "optionSet": {
+                "id": "Xhoz6BW4aiz"
+            },
+            "sortOrder": 3,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "surf",
+            "created": "2021-06-11T02:04:58.562",
+            "id": "DdKuADjvq8x",
+            "lastUpdated": "2021-06-11T02:04:58.575",
+            "name": "Surface",
+            "optionSet": {
+                "id": "Xhoz6BW4aiz"
+            },
+            "sortOrder": 14,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "waproc",
+            "created": "2021-06-11T02:04:58.562",
+            "id": "CwRYFuAD5c8",
+            "lastUpdated": "2021-06-11T02:04:58.575",
+            "name": "Water, processed",
+            "optionSet": {
+                "id": "Xhoz6BW4aiz"
+            },
+            "sortOrder": 22,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "incub",
+            "created": "2021-06-11T02:04:58.562",
+            "id": "STXOSgCJlSC",
+            "lastUpdated": "2021-06-11T02:04:58.575",
+            "name": "Incubator",
+            "optionSet": {
+                "id": "Xhoz6BW4aiz"
+            },
+            "sortOrder": 9,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "wacity",
+            "created": "2021-06-11T02:04:58.562",
+            "id": "SZ1JHsZLlfV",
+            "lastUpdated": "2021-06-11T02:04:58.575",
+            "name": "Water, city aquaduct",
+            "optionSet": {
+                "id": "Xhoz6BW4aiz"
+            },
+            "sortOrder": 18,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "plank",
+            "created": "2021-06-11T02:04:58.562",
+            "id": "hrdvQPXwyTp",
+            "lastUpdated": "2021-06-11T02:04:58.575",
+            "name": "Plankton",
+            "optionSet": {
+                "id": "Xhoz6BW4aiz"
+            },
+            "sortOrder": 11,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "walake",
+            "created": "2021-06-11T02:04:58.562",
+            "id": "ZK8UaBKVm92",
+            "lastUpdated": "2021-06-11T02:04:58.575",
+            "name": "Water, lake",
+            "optionSet": {
+                "id": "Xhoz6BW4aiz"
+            },
+            "sortOrder": 20,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "waest",
+            "created": "2021-06-11T02:04:58.562",
+            "id": "nCpudDLU8V3",
+            "lastUpdated": "2021-06-11T02:04:58.575",
+            "name": "Water, estuary",
+            "optionSet": {
+                "id": "Xhoz6BW4aiz"
+            },
+            "sortOrder": 19,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "wat",
+            "created": "2021-06-11T02:10:00.801",
+            "id": "WMWoczfrfqS",
+            "lastUpdated": "2021-06-11T02:10:00.813",
+            "name": "Water (unspecified)",
+            "optionSet": {
+                "id": "Xhoz6BW4aiz"
+            },
+            "sortOrder": 29,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "penshoe",
+            "created": "2021-06-11T02:04:58.562",
+            "id": "MtSNdUW1zxY",
+            "lastUpdated": "2021-06-11T02:04:58.575",
+            "name": "Animal pen, shoe covers",
+            "optionSet": {
+                "id": "Xhoz6BW4aiz"
+            },
+            "sortOrder": 4,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "watwaste",
+            "created": "2021-06-11T02:04:58.562",
+            "id": "kUN1YTWcRqG",
+            "lastUpdated": "2021-06-11T02:04:58.575",
+            "name": "Water, wastewater",
+            "optionSet": {
+                "id": "Xhoz6BW4aiz"
+            },
+            "sortOrder": 27,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "wahuman",
+            "created": "2021-06-11T02:04:58.562",
+            "id": "OveqHGXmNjC",
+            "lastUpdated": "2021-06-11T02:04:58.575",
+            "name": "Water for human consumption",
+            "optionSet": {
+                "id": "Xhoz6BW4aiz"
+            },
+            "sortOrder": 17,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "ppe",
+            "created": "2021-06-11T02:04:58.562",
+            "id": "RqIfv56Pa0k",
+            "lastUpdated": "2021-06-11T02:04:58.575",
+            "name": "Personal Protective Equipment (PPE)",
+            "optionSet": {
+                "id": "Xhoz6BW4aiz"
+            },
+            "sortOrder": 10,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "wasea",
+            "created": "2021-06-11T02:04:58.562",
+            "id": "clE50uidP4h",
+            "lastUpdated": "2021-06-11T02:04:58.575",
+            "name": "Water, seawater",
+            "optionSet": {
+                "id": "Xhoz6BW4aiz"
+            },
+            "sortOrder": 24,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "penstool",
+            "created": "2021-06-11T02:04:58.562",
+            "id": "Ef76QjsTaC3",
+            "lastUpdated": "2021-06-11T02:04:58.575",
+            "name": "Animal pen, feces from floor",
+            "optionSet": {
+                "id": "Xhoz6BW4aiz"
+            },
+            "sortOrder": 2,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "uten",
+            "created": "2021-06-11T02:04:58.562",
+            "id": "qKdVldrQQEI",
+            "lastUpdated": "2021-06-11T02:04:58.575",
+            "name": "Utensils",
+            "optionSet": {
+                "id": "Xhoz6BW4aiz"
+            },
+            "sortOrder": 16,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "watuntreat",
+            "created": "2021-06-11T02:04:58.562",
+            "id": "v08GABhMaP1",
+            "lastUpdated": "2021-06-11T02:04:58.575",
+            "name": "Water, untreated",
+            "optionSet": {
+                "id": "Xhoz6BW4aiz"
+            },
+            "sortOrder": 26,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "truck",
+            "created": "2021-06-11T02:04:58.562",
+            "id": "AoYx3OsCFmb",
+            "lastUpdated": "2021-06-11T02:04:58.575",
+            "name": "Truck",
+            "optionSet": {
+                "id": "Xhoz6BW4aiz"
+            },
+            "sortOrder": 15,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "penwat",
+            "created": "2021-06-11T02:04:58.562",
+            "id": "upWDf11LWHz",
+            "lastUpdated": "2021-06-11T02:04:58.575",
+            "name": "Animal pen, water supply",
+            "optionSet": {
+                "id": "Xhoz6BW4aiz"
+            },
+            "sortOrder": 5,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "wamun",
+            "created": "2021-06-11T02:04:58.562",
+            "id": "WFek8bDukZJ",
+            "lastUpdated": "2021-06-11T02:04:58.575",
+            "name": "Water, municipal aquaduct",
+            "optionSet": {
+                "id": "Xhoz6BW4aiz"
+            },
+            "sortOrder": 21,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "watwell",
+            "created": "2021-06-11T02:04:58.562",
+            "id": "GscXPRKgpPG",
+            "lastUpdated": "2021-06-11T02:04:58.575",
+            "name": "Water, well",
+            "optionSet": {
+                "id": "Xhoz6BW4aiz"
+            },
+            "sortOrder": 28,
+            "translations": []
+        }
+    ]
+}

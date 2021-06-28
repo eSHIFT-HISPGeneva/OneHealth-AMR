@@ -1,0 +1,89 @@
+{
+    "date": "2021-06-28T02:43:04.692",
+    "optionSets": [
+        {
+            "attributeValues": [],
+            "created": "2021-05-25T04:47:25.488",
+            "id": "iX97sPsVDt6",
+            "lastUpdated": "2021-05-25T04:47:25.504",
+            "name": "RIS Status",
+            "options": [
+                {
+                    "id": "rUqjxIJygZF"
+                },
+                {
+                    "id": "RHkQiJElrct"
+                },
+                {
+                    "id": "Np4gQEinfBi"
+                },
+                {
+                    "id": "Iy6Legtywj3"
+                }
+            ],
+            "sharing": {
+                "external": false,
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "translations": [],
+            "valueType": "TEXT",
+            "version": 0
+        }
+    ],
+    "options": [
+        {
+            "attributeValues": [],
+            "code": "R",
+            "created": "2021-05-25T04:47:25.488",
+            "id": "Np4gQEinfBi",
+            "lastUpdated": "2021-05-25T04:47:25.499",
+            "name": "Resistant",
+            "optionSet": {
+                "id": "iX97sPsVDt6"
+            },
+            "sortOrder": 3,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "I",
+            "created": "2021-05-25T04:47:25.488",
+            "id": "rUqjxIJygZF",
+            "lastUpdated": "2021-05-25T04:47:25.499",
+            "name": "Intermediate",
+            "optionSet": {
+                "id": "iX97sPsVDt6"
+            },
+            "sortOrder": 1,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "NS",
+            "created": "2021-05-25T04:47:25.488",
+            "id": "RHkQiJElrct",
+            "lastUpdated": "2021-05-25T04:47:25.499",
+            "name": "Non-Susceptible",
+            "optionSet": {
+                "id": "iX97sPsVDt6"
+            },
+            "sortOrder": 2,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "S",
+            "created": "2021-05-25T04:47:25.488",
+            "id": "Iy6Legtywj3",
+            "lastUpdated": "2021-05-25T04:47:25.499",
+            "name": "Susceptible",
+            "optionSet": {
+                "id": "iX97sPsVDt6"
+            },
+            "sortOrder": 4,
+            "translations": []
+        }
+    ]
+}
