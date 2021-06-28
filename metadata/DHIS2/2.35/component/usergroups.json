@@ -1,0 +1,210 @@
+{
+    "system": {
+        "date": "2021-06-28T03:50:25.768",
+        "id": "3d255d38-f428-4c88-9a2a-a55b45d6db1a",
+        "rev": "ca2700f",
+        "version": "2.36.0"
+    },
+    "userGroups": [
+        {
+            "attributeValues": [],
+            "created": "2021-06-28T01:40:45.401",
+            "id": "wuWrewVeKxK",
+            "lastUpdated": "2021-06-28T02:38:31.088",
+            "managedGroups": [],
+            "name": "Animal (can View program and aggregate data)",
+            "translations": [],
+            "users": []
+        },
+        {
+            "attributeValues": [],
+            "created": "2021-06-28T01:41:04.249",
+            "id": "gGE1jEmawD5",
+            "lastUpdated": "2021-06-28T02:38:31.076",
+            "managedGroups": [],
+            "name": "Animal Aggregate (can View aggregate data)",
+            "translations": [],
+            "users": []
+        },
+        {
+            "attributeValues": [],
+            "created": "2021-06-28T01:53:16.667",
+            "id": "czMdphD5I0Q",
+            "lastUpdated": "2021-06-28T02:38:31.084",
+            "managedGroups": [],
+            "name": "Animal Data Entry (can Enter program data)",
+            "translations": [],
+            "users": []
+        },
+        {
+            "attributeValues": [],
+            "created": "2021-06-28T01:41:19.659",
+            "id": "qlkOBS6O0oi",
+            "lastUpdated": "2021-06-28T02:38:31.089",
+            "managedGroups": [],
+            "name": "Environment (can View program and aggregate data)",
+            "translations": [],
+            "users": []
+        },
+        {
+            "attributeValues": [],
+            "created": "2021-06-28T01:41:33.944",
+            "id": "sVshhhGyBsu",
+            "lastUpdated": "2021-06-28T02:38:31.077",
+            "managedGroups": [],
+            "name": "Environment Aggregate (can View aggregate data)",
+            "translations": [],
+            "users": []
+        },
+        {
+            "attributeValues": [],
+            "created": "2021-06-28T01:53:52.613",
+            "id": "Jt20U6PrVCP",
+            "lastUpdated": "2021-06-28T02:38:31.074",
+            "managedGroups": [],
+            "name": "Environment Data Entry (can Enter program data)",
+            "translations": [],
+            "users": []
+        },
+        {
+            "attributeValues": [],
+            "created": "2021-06-28T01:42:20.393",
+            "id": "N5ZAdfqyBlM",
+            "lastUpdated": "2021-06-28T02:38:31.068",
+            "managedGroups": [],
+            "name": "Feed (can View program and aggregate data)",
+            "translations": [],
+            "users": []
+        },
+        {
+            "attributeValues": [],
+            "created": "2021-06-28T01:42:32.769",
+            "id": "dS27Syv6Glg",
+            "lastUpdated": "2021-06-28T02:38:31.079",
+            "managedGroups": [],
+            "name": "Feed Aggregate (can View aggregate data)",
+            "translations": [],
+            "users": []
+        },
+        {
+            "attributeValues": [],
+            "created": "2021-06-28T01:54:19.209",
+            "id": "n9khxTZJ3wz",
+            "lastUpdated": "2021-06-28T02:38:31.086",
+            "managedGroups": [],
+            "name": "Feed Data Entry (can Enter program data)",
+            "translations": [],
+            "users": []
+        },
+        {
+            "attributeValues": [],
+            "created": "2021-06-28T01:41:58.385",
+            "id": "sYdADawqTX5",
+            "lastUpdated": "2021-06-28T02:38:31.069",
+            "managedGroups": [],
+            "name": "Food (can View program and aggregate data)",
+            "translations": [],
+            "users": []
+        },
+        {
+            "attributeValues": [],
+            "created": "2021-06-28T01:42:10.507",
+            "id": "JgIvRP7kLZo",
+            "lastUpdated": "2021-06-28T02:38:31.081",
+            "managedGroups": [],
+            "name": "Food Aggregate (can View aggregate data)",
+            "translations": [],
+            "users": []
+        },
+        {
+            "attributeValues": [],
+            "created": "2021-06-28T01:54:09.102",
+            "id": "YhqXUjTSiQk",
+            "lastUpdated": "2021-06-28T02:38:31.075",
+            "managedGroups": [],
+            "name": "Food Data Entry (can Enter program data)",
+            "translations": [],
+            "users": []
+        },
+        {
+            "attributeValues": [],
+            "created": "2021-05-26T18:49:46.061",
+            "id": "aCwfOkuf4sW",
+            "lastUpdated": "2021-06-28T02:38:31.071",
+            "managedGroups": [],
+            "name": "Human (can View program and aggregate data)",
+            "translations": [],
+            "users": []
+        },
+        {
+            "attributeValues": [],
+            "created": "2021-06-03T08:27:19.825",
+            "id": "VeeKNIs5epT",
+            "lastUpdated": "2021-06-28T02:38:31.082",
+            "managedGroups": [],
+            "name": "Human Aggregate (can View aggregate data)",
+            "translations": [],
+            "users": []
+        },
+        {
+            "attributeValues": [],
+            "created": "2021-06-28T01:53:30.642",
+            "id": "CxDSjSRwf2G",
+            "lastUpdated": "2021-06-28T02:38:31.085",
+            "managedGroups": [],
+            "name": "Human Data Entry (can Enter program data)",
+            "translations": [],
+            "users": []
+        },
+        {
+            "attributeValues": [],
+            "created": "2021-06-28T01:42:55.063",
+            "id": "ovos7xROBnT",
+            "lastUpdated": "2021-06-28T02:38:31.073",
+            "managedGroups": [],
+            "name": "One Health (can View program and aggregate data)",
+            "translations": [],
+            "users": []
+        },
+        {
+            "attributeValues": [],
+            "created": "2021-06-28T01:43:09.616",
+            "id": "TiMTmF3zyeS",
+            "lastUpdated": "2021-06-28T02:38:31.083",
+            "managedGroups": [],
+            "name": "One Health Aggregate (can View aggregate data)",
+            "translations": [],
+            "users": []
+        },
+        {
+            "attributeValues": [],
+            "created": "2021-06-28T01:48:21.863",
+            "id": "Awfb9EPz65B",
+            "lastUpdated": "2021-06-28T02:38:31.087",
+            "managedGroups": [],
+            "name": "One Health Data Entry (can Enter program data)",
+            "translations": [],
+            "users": []
+        },
+        {
+            "attributeValues": [],
+            "created": "2021-06-07T13:39:49.886",
+            "id": "mO2my0aYrWD",
+            "lastUpdated": "2021-06-28T02:38:31.073",
+            "managedGroups": [],
+            "name": "Super Analyst : (Can View data & View Metadata for All programs)",
+            "translations": [],
+            "users": []
+        },
+        {
+            "attributeValues": [],
+            "created": "2021-06-07T13:40:24.797",
+            "id": "hAlY0mdsYD4",
+            "lastUpdated": "2021-06-28T02:38:31.072",
+            "managedGroups": [],
+            "name": "Super Technical : (Can View data & Edit/View Metadata for All programs)",
+            "translations": [],
+            "users": []
+        }
+    ]
+}
