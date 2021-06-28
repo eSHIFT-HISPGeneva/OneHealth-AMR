@@ -1,5 +1,15 @@
 # OneHealth-AMR
 This One Health AMR repository consistes of a set of metadata packages, interoperabliity mapping files, and support documents that allow countries to instantiate a basic end-to-end (lab/patient systems to national-level analytics) cross-sector (animal, food, human, environment, drug use) Antimicrobial Resistance surveillance system based on a number of readily available open-source components.
 
+### Documentation
 * [Installation Guide](docs/installation.md)
 * [Logical Model - ODS](docs/logicalmodel-ods.md)
+* [Logical Model - analytics](docs/analytics-ods.md)
+* [Logical Model - GLASS Reporting](docs/)
+* [AMR One Health DHIS2 Metadata descriptions](docs/)
+### Insallation Files for various AMR One Health solution elements
+* [DHIS2 Metadata Files - Individual Components](metadata/DHIS2/2.35/component/)
+* [Glass Reporting - R Generation Scripts](metadata/DHIS2/2.35/component/)
+* [Glass Reporting - Report Table Script](metadata/DHIS2/2.35/component/)
+* [R Scripts - DHIS2 AMR Aggregation](metadata/DHIS2/2.35/component/)
+* [Open Interop - Mapping Manifests](metadata/open_interop/)
