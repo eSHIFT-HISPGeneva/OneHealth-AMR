@@ -1,0 +1,201 @@
+{
+    "dataElements": [
+        {
+            "aggregationLevels": [],
+            "aggregationType": "NONE",
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "bjDvmb4bfuf"
+            },
+            "created": "2021-05-25T23:21:46.162",
+            "domainType": "TRACKER",
+            "id": "C25kY3E21zv",
+            "lastUpdated": "2021-05-25T23:21:46.162",
+            "legendSets": [],
+            "name": "Result (Qualitative)",
+            "optionSet": {
+                "id": "iX97sPsVDt6"
+            },
+            "sharing": {
+                "external": false,
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "Result (Qualitative)",
+            "translations": [],
+            "valueType": "TEXT",
+            "zeroIsSignificant": false
+        },
+        {
+            "aggregationLevels": [],
+            "aggregationType": "NONE",
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "bjDvmb4bfuf"
+            },
+            "created": "2021-05-25T23:21:46.162",
+            "domainType": "TRACKER",
+            "id": "sjggkgBfIWE",
+            "lastUpdated": "2021-05-25T23:21:46.162",
+            "legendSets": [],
+            "name": "Result (Quantitative)",
+            "sharing": {
+                "external": false,
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "Result (Quantitative)",
+            "translations": [],
+            "valueType": "NUMBER",
+            "zeroIsSignificant": false
+        },
+        {
+            "aggregationLevels": [],
+            "aggregationType": "NONE",
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "bjDvmb4bfuf"
+            },
+            "code": "SPEC_TYPE_HU",
+            "created": "2021-05-26T05:21:57.815",
+            "domainType": "TRACKER",
+            "id": "IvVVi4ft0v8",
+            "lastUpdated": "2021-06-11T02:11:42.078",
+            "legendSets": [],
+            "name": "Specimen Type (Human)",
+            "optionSet": {
+                "id": "IR7yv5Mn4BE"
+            },
+            "sharing": {
+                "external": false,
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "Specimen Type (H)",
+            "translations": [],
+            "valueType": "TEXT",
+            "zeroIsSignificant": false
+        },
+        {
+            "aggregationLevels": [],
+            "aggregationType": "NONE",
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "bjDvmb4bfuf"
+            },
+            "code": "SPEC_TYPE_AN",
+            "created": "2021-06-11T02:12:24.177",
+            "domainType": "TRACKER",
+            "id": "vxGMPZ98rVp",
+            "lastUpdated": "2021-06-11T02:12:24.177",
+            "legendSets": [],
+            "name": "Specimen Type (Animal)",
+            "optionSet": {
+                "id": "OGjIgXjSyB1"
+            },
+            "sharing": {
+                "external": false,
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "Specimen Type (A)",
+            "translations": [],
+            "valueType": "TEXT",
+            "zeroIsSignificant": false
+        },
+        {
+            "aggregationLevels": [],
+            "aggregationType": "NONE",
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "bjDvmb4bfuf"
+            },
+            "code": "SPEC_TYPE_EN",
+            "created": "2021-06-11T02:13:00.355",
+            "domainType": "TRACKER",
+            "id": "xhIBAlnWwpP",
+            "lastUpdated": "2021-06-11T02:13:00.355",
+            "legendSets": [],
+            "name": "Specimen Type (Environment)",
+            "optionSet": {
+                "id": "Xhoz6BW4aiz"
+            },
+            "sharing": {
+                "external": false,
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "Specimen Type (EN)",
+            "translations": [],
+            "valueType": "TEXT",
+            "zeroIsSignificant": false
+        },
+        {
+            "aggregationLevels": [],
+            "aggregationType": "NONE",
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "bjDvmb4bfuf"
+            },
+            "code": "SPEC_TYPE_FE",
+            "created": "2021-06-11T02:14:24.852",
+            "domainType": "TRACKER",
+            "id": "nm0NfU92Elb",
+            "lastUpdated": "2021-06-11T02:14:24.852",
+            "legendSets": [],
+            "name": "Specimen Type (Feed)",
+            "optionSet": {
+                "id": "moqzolg95jF"
+            },
+            "sharing": {
+                "external": false,
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "Specimen Type (Fe)",
+            "translations": [],
+            "valueType": "TEXT",
+            "zeroIsSignificant": false
+        },
+        {
+            "aggregationLevels": [],
+            "aggregationType": "NONE",
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "bjDvmb4bfuf"
+            },
+            "code": "SPEC_TYPE_FO",
+            "created": "2021-06-11T02:14:00.625",
+            "domainType": "TRACKER",
+            "id": "G2zKKZR8w7h",
+            "lastUpdated": "2021-06-11T02:14:00.625",
+            "legendSets": [],
+            "name": "Specimen Type (Food)",
+            "optionSet": {
+                "id": "n4XWK6sxsjP"
+            },
+            "sharing": {
+                "external": false,
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "shortName": "Specimen Type (Fo)",
+            "translations": [],
+            "valueType": "TEXT",
+            "zeroIsSignificant": false
+        }
+    ],
+    "system": {
+        "date": "2021-06-28T04:03:13.351",
+        "id": "3d255d38-f428-4c88-9a2a-a55b45d6db1a",
+        "rev": "ca2700f",
+        "version": "2.36.0"
+    }
+}
