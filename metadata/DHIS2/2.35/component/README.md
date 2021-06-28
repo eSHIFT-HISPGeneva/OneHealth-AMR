@@ -8,7 +8,7 @@ To be valid, the metadata objects __MUST be imported in the following order:__
 * Option Sets (optionset-_name_.json)
 * Tracker Types and Attributes (trackertypesattributes.json)
 * Program Data Elements (dataelement-progs.json)
-* Tracker Programs (program-_name_.sjon)
+* Tracker Programs (prog-_name_.sjon)
 ### Analytics Layer (aggregate AMR tables for analytics and reporting)
 * Aggregate Data Elements (dataelement-analytics.json)
 * Analytics - charts
