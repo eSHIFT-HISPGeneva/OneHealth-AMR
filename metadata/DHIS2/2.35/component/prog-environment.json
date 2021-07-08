@@ -1,163 +1,4 @@
 {
-    "dataElements": [
-        {
-            "aggregationLevels": [],
-            "aggregationType": "NONE",
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "bjDvmb4bfuf"
-            },
-            "created": "2021-05-25T23:21:46.162",
-            "domainType": "TRACKER",
-            "id": "C25kY3E21zv",
-            "lastUpdated": "2021-05-25T23:21:46.162",
-            "legendSets": [],
-            "name": "Result (Qualitative)",
-            "optionSet": {
-                "id": "iX97sPsVDt6"
-            },
-            "sharing": {
-                "external": false,
-                "public": "rw------",
-                "userGroups": {},
-                "users": {}
-            },
-            "shortName": "Result (Qualitative)",
-            "translations": [],
-            "valueType": "TEXT",
-            "zeroIsSignificant": false
-        },
-        {
-            "aggregationLevels": [],
-            "aggregationType": "NONE",
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "bjDvmb4bfuf"
-            },
-            "created": "2021-05-25T23:21:46.162",
-            "domainType": "TRACKER",
-            "id": "sjggkgBfIWE",
-            "lastUpdated": "2021-05-25T23:21:46.162",
-            "legendSets": [],
-            "name": "Result (Quantitative)",
-            "sharing": {
-                "external": false,
-                "public": "rw------",
-                "userGroups": {},
-                "users": {}
-            },
-            "shortName": "Result (Quantitative)",
-            "translations": [],
-            "valueType": "NUMBER",
-            "zeroIsSignificant": false
-        },
-        {
-            "aggregationLevels": [],
-            "aggregationType": "NONE",
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "bjDvmb4bfuf"
-            },
-            "created": "2021-05-26T03:23:50.246",
-            "domainType": "TRACKER",
-            "id": "Wsk4NARIElI",
-            "lastUpdated": "2021-05-26T03:23:50.246",
-            "legendSets": [],
-            "name": "Pathogen",
-            "optionSet": {
-                "id": "Vbpoy21uQ70"
-            },
-            "sharing": {
-                "external": false,
-                "public": "rw------",
-                "userGroups": {},
-                "users": {}
-            },
-            "shortName": "Pathogen",
-            "translations": [],
-            "valueType": "TEXT",
-            "zeroIsSignificant": false
-        },
-        {
-            "aggregationLevels": [],
-            "aggregationType": "NONE",
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "bjDvmb4bfuf"
-            },
-            "created": "2021-05-26T03:29:30.528",
-            "domainType": "TRACKER",
-            "id": "gaCDwmKm768",
-            "lastUpdated": "2021-05-26T03:29:30.528",
-            "legendSets": [],
-            "name": "Antimicrobial",
-            "optionSet": {
-                "id": "aPkkDRMvi8U"
-            },
-            "sharing": {
-                "external": false,
-                "public": "rw------",
-                "userGroups": {},
-                "users": {}
-            },
-            "shortName": "Antimicrobial",
-            "translations": [],
-            "valueType": "TEXT",
-            "zeroIsSignificant": false
-        },
-        {
-            "aggregationLevels": [],
-            "aggregationType": "NONE",
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "bjDvmb4bfuf"
-            },
-            "code": "SPEC_TYPE_EN",
-            "created": "2021-06-11T02:13:00.355",
-            "domainType": "TRACKER",
-            "id": "xhIBAlnWwpP",
-            "lastUpdated": "2021-06-11T02:13:00.355",
-            "legendSets": [],
-            "name": "Specimen Type (Environment)",
-            "optionSet": {
-                "id": "Xhoz6BW4aiz"
-            },
-            "sharing": {
-                "external": false,
-                "public": "rw------",
-                "userGroups": {},
-                "users": {}
-            },
-            "shortName": "Specimen Type (EN)",
-            "translations": [],
-            "valueType": "TEXT",
-            "zeroIsSignificant": false
-        },
-        {
-            "aggregationLevels": [],
-            "aggregationType": "SUM",
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "bjDvmb4bfuf"
-            },
-            "created": "2021-05-26T07:57:57.111",
-            "domainType": "TRACKER",
-            "id": "v40JOtHbKmz",
-            "lastUpdated": "2021-05-26T07:57:57.111",
-            "legendSets": [],
-            "name": "Laboratory",
-            "sharing": {
-                "external": false,
-                "public": "rw------",
-                "userGroups": {},
-                "users": {}
-            },
-            "shortName": "Laboratory",
-            "translations": [],
-            "valueType": "ORGANISATION_UNIT",
-            "zeroIsSignificant": false
-        }
-    ],
     "date": "2021-06-28T05:56:34.114",
     "programStageDataElements": [
         {
@@ -534,7 +375,7 @@
             "completeEventsExpiryDays": 0,
             "created": "2021-05-27T04:45:48.240",
             "displayFrontPageList": true,
-            "displayIncidentDate": true,
+            "displayIncidentDate": false,
             "expiryDays": 0,
             "id": "KY3o3VKandt",
             "ignoreOverdueEvents": false,
@@ -544,7 +385,6 @@
             "name": "AMR - Environment",
             "notificationTemplates": [],
             "onlyEnrollOnce": true,
-            "organisationUnits": [],
             "programSections": [],
             "programStages": [
                 {
@@ -800,8 +640,8 @@
                 }
             ],
             "programType": "WITH_REGISTRATION",
-            "selectEnrollmentDatesInFuture": false,
-            "selectIncidentDatesInFuture": false,
+            "selectEnrollmentDatesInFuture": true,
+            "selectIncidentDatesInFuture": true,
             "sharing": {
                 "external": false,
                 "public": "--------",
