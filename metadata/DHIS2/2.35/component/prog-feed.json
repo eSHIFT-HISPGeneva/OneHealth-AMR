@@ -1,0 +1,678 @@
+{
+    "date": "2021-06-28T05:57:04.504",
+    "programStageDataElements": [
+        {
+            "allowFutureDate": false,
+            "allowProvidedElsewhere": false,
+            "compulsory": true,
+            "created": "2021-06-10T04:15:10.936",
+            "dataElement": {
+                "id": "gaCDwmKm768"
+            },
+            "displayInReports": false,
+            "id": "OyozoiXszJS",
+            "lastUpdated": "2021-06-28T02:31:38.934",
+            "programStage": {
+                "id": "EgVowusOFav"
+            },
+            "renderOptionsAsRadio": false,
+            "skipSynchronization": false,
+            "sortOrder": 1
+        },
+        {
+            "allowFutureDate": false,
+            "allowProvidedElsewhere": false,
+            "compulsory": false,
+            "created": "2021-06-10T04:15:10.935",
+            "dataElement": {
+                "id": "C25kY3E21zv"
+            },
+            "displayInReports": false,
+            "id": "ojd8bEQYoiX",
+            "lastUpdated": "2021-06-28T02:31:38.934",
+            "programStage": {
+                "id": "EgVowusOFav"
+            },
+            "renderOptionsAsRadio": false,
+            "skipSynchronization": false,
+            "sortOrder": 4
+        },
+        {
+            "allowFutureDate": false,
+            "allowProvidedElsewhere": false,
+            "compulsory": false,
+            "created": "2021-06-10T04:15:10.935",
+            "dataElement": {
+                "id": "sjggkgBfIWE"
+            },
+            "displayInReports": false,
+            "id": "xvKf8YsOkPT",
+            "lastUpdated": "2021-06-28T02:31:38.934",
+            "programStage": {
+                "id": "EgVowusOFav"
+            },
+            "renderOptionsAsRadio": false,
+            "skipSynchronization": false,
+            "sortOrder": 5
+        },
+    ],
+    "programStageSections": [
+        {
+            "created": "2021-06-10T04:15:10.729",
+            "dataElements": [
+                {
+                    "id": "gaCDwmKm768"
+                },
+                {
+                    "id": "C25kY3E21zv"
+                },
+                {
+                    "id": "sjggkgBfIWE"
+                }
+            ],
+            "id": "ht4rflEdkRH",
+            "lastUpdated": "2021-06-22T23:12:44.260",
+            "name": "Results",
+            "programIndicators": [],
+            "programStage": {
+                "id": "EgVowusOFav"
+            },
+            "renderType": {
+                "DESKTOP": {
+                    "type": "LISTING"
+                },
+                "MOBILE": {
+                    "type": "LISTING"
+                }
+            },
+            "sortOrder": 0,
+            "translations": []
+        }
+    ],
+    "programStages": [
+        {
+            "allowGenerateNextVisit": false,
+            "attributeValues": [],
+            "autoGenerateEvent": true,
+            "blockEntryForm": false,
+            "created": "2021-06-10T04:15:10.933",
+            "displayGenerateEventBox": true,
+            "enableUserAssignment": false,
+            "generatedByEnrollmentDate": false,
+            "hideDueDate": true,
+            "id": "EgVowusOFav",
+            "lastUpdated": "2021-06-28T02:31:38.933",
+            "minDaysFromStart": 0,
+            "name": "Feed Details",
+            "notificationTemplates": [],
+            "openAfterEnrollment": true,
+            "preGenerateUID": false,
+            "program": {
+                "id": "s2F33R4jnPZ"
+            },
+            "programStageDataElements": [
+                {
+                    "access": {
+                        "delete": true,
+                        "externalize": true,
+                        "manage": true,
+                        "read": true,
+                        "update": true,
+                        "write": true
+                    },
+                    "allowFutureDate": false,
+                    "allowProvidedElsewhere": false,
+                    "attributeValues": [],
+                    "compulsory": true,
+                    "created": "2021-06-10T04:15:10.936",
+                    "dataElement": {
+                        "id": "gaCDwmKm768"
+                    },
+                    "displayInReports": false,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "OyozoiXszJS",
+                    "lastUpdated": "2021-06-28T02:31:38.934",
+                    "programStage": {
+                        "id": "EgVowusOFav"
+                    },
+                    "renderOptionsAsRadio": false,
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "skipSynchronization": false,
+                    "sortOrder": 1,
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": []
+                },
+                {
+                    "access": {
+                        "delete": true,
+                        "externalize": true,
+                        "manage": true,
+                        "read": true,
+                        "update": true,
+                        "write": true
+                    },
+                    "allowFutureDate": false,
+                    "allowProvidedElsewhere": false,
+                    "attributeValues": [],
+                    "compulsory": false,
+                    "created": "2021-06-10T04:15:10.935",
+                    "dataElement": {
+                        "id": "C25kY3E21zv"
+                    },
+                    "displayInReports": false,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "ojd8bEQYoiX",
+                    "lastUpdated": "2021-06-28T02:31:38.934",
+                    "programStage": {
+                        "id": "EgVowusOFav"
+                    },
+                    "renderOptionsAsRadio": false,
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "skipSynchronization": false,
+                    "sortOrder": 4,
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": []
+                },
+                {
+                    "access": {
+                        "delete": true,
+                        "externalize": true,
+                        "manage": true,
+                        "read": true,
+                        "update": true,
+                        "write": true
+                    },
+                    "allowFutureDate": false,
+                    "allowProvidedElsewhere": false,
+                    "attributeValues": [],
+                    "compulsory": false,
+                    "created": "2021-06-10T04:15:10.935",
+                    "dataElement": {
+                        "id": "sjggkgBfIWE"
+                    },
+                    "displayInReports": false,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "xvKf8YsOkPT",
+                    "lastUpdated": "2021-06-28T02:31:38.934",
+                    "programStage": {
+                        "id": "EgVowusOFav"
+                    },
+                    "renderOptionsAsRadio": false,
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "skipSynchronization": false,
+                    "sortOrder": 5,
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": []
+                },
+            ],
+            "programStageSections": [
+                {
+                    "id": "ht4rflEdkRH"
+                }
+            ],
+            "remindCompleted": false,
+            "repeatable": true,
+            "sharing": {
+                "external": false,
+                "public": "--------",
+                "userGroups": {
+                    "Awfb9EPz65B": {
+                        "access": "r-rw----",
+                        "id": "Awfb9EPz65B"
+                    },
+                    "N5ZAdfqyBlM": {
+                        "access": "r-r-----",
+                        "id": "N5ZAdfqyBlM"
+                    },
+                    "hAlY0mdsYD4": {
+                        "access": "rwr-----",
+                        "id": "hAlY0mdsYD4"
+                    },
+                    "n9khxTZJ3wz": {
+                        "access": "r-rw----",
+                        "id": "n9khxTZJ3wz"
+                    }
+                },
+                "users": {}
+            },
+            "sortOrder": 1,
+            "translations": [],
+            "validationStrategy": "ON_COMPLETE"
+        }
+    ],
+    "programTrackedEntityAttributes": [
+        {
+            "created": "2021-06-22T23:12:44.197",
+            "displayInList": true,
+            "id": "LnktVmooGBK",
+            "lastUpdated": "2021-06-28T05:22:33.146",
+            "mandatory": false,
+            "program": {
+                "id": "s2F33R4jnPZ"
+            },
+            "programTrackedEntityAttributeGroups": [],
+            "renderOptionsAsRadio": false,
+            "searchable": false,
+            "sortOrder": 6,
+            "trackedEntityAttribute": {
+                "id": "qaQzslMuVac"
+            }
+        },
+        {
+            "created": "2021-06-22T23:12:44.197",
+            "displayInList": true,
+            "id": "ITE6315Eoo8",
+            "lastUpdated": "2021-06-28T05:22:33.145",
+            "mandatory": true,
+            "program": {
+                "id": "s2F33R4jnPZ"
+            },
+            "programTrackedEntityAttributeGroups": [],
+            "renderOptionsAsRadio": false,
+            "searchable": false,
+            "sortOrder": 2,
+            "trackedEntityAttribute": {
+                "id": "opkhFoeEz9m"
+            }
+        },
+        {
+            "created": "2021-06-22T23:12:44.197",
+            "displayInList": true,
+            "id": "GYlpnEGECsD",
+            "lastUpdated": "2021-06-28T05:22:33.145",
+            "mandatory": false,
+            "program": {
+                "id": "s2F33R4jnPZ"
+            },
+            "programTrackedEntityAttributeGroups": [],
+            "renderOptionsAsRadio": false,
+            "searchable": false,
+            "sortOrder": 5,
+            "trackedEntityAttribute": {
+                "id": "eaqQd1d6yAV"
+            }
+        },
+        {
+            "created": "2021-06-10T04:15:08.880",
+            "displayInList": true,
+            "id": "mffmx9unOPZ",
+            "lastUpdated": "2021-06-28T05:22:33.145",
+            "mandatory": false,
+            "program": {
+                "id": "s2F33R4jnPZ"
+            },
+            "programTrackedEntityAttributeGroups": [],
+            "renderOptionsAsRadio": false,
+            "searchable": false,
+            "sortOrder": 4,
+            "trackedEntityAttribute": {
+                "id": "QznE0JyWMCT"
+            }
+        },
+        {
+            "created": "2021-06-22T23:12:44.197",
+            "displayInList": true,
+            "id": "lFh41ybwOHr",
+            "lastUpdated": "2021-06-28T05:22:33.145",
+            "mandatory": true,
+            "program": {
+                "id": "s2F33R4jnPZ"
+            },
+            "programTrackedEntityAttributeGroups": [],
+            "renderOptionsAsRadio": false,
+            "searchable": false,
+            "sortOrder": 3,
+            "trackedEntityAttribute": {
+                "id": "lFyQfRk7yUv"
+            }
+        },
+        {
+            "created": "2021-06-22T23:12:44.197",
+            "displayInList": false,
+            "id": "aZ2h3qAYjqd",
+            "lastUpdated": "2021-06-28T05:22:33.145",
+            "mandatory": false,
+            "program": {
+                "id": "s2F33R4jnPZ"
+            },
+            "programTrackedEntityAttributeGroups": [],
+            "renderOptionsAsRadio": false,
+            "searchable": false,
+            "sortOrder": 1,
+            "trackedEntityAttribute": {
+                "id": "LQZywhYcISY"
+            }
+        }
+    ],
+    "programs": [
+        {
+            "accessLevel": "OPEN",
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "bjDvmb4bfuf"
+            },
+            "completeEventsExpiryDays": 0,
+            "created": "2021-06-10T04:15:11.100",
+            "displayFrontPageList": true,
+            "displayIncidentDate": false,
+            "expiryDays": 0,
+            "id": "s2F33R4jnPZ",
+            "ignoreOverdueEvents": false,
+            "lastUpdated": "2021-06-28T05:22:33.144",
+            "maxTeiCountToReturn": 0,
+            "minAttributesRequiredToSearch": 1,
+            "name": "AMR - Feed",
+            "notificationTemplates": [],
+            "onlyEnrollOnce": false,
+            "programSections": [],
+            "programStages": [
+                {
+                    "id": "EgVowusOFav"
+                }
+            ],
+            "programTrackedEntityAttributes": [
+                {
+                    "access": {
+                        "delete": true,
+                        "externalize": true,
+                        "manage": true,
+                        "read": true,
+                        "update": true,
+                        "write": true
+                    },
+                    "attributeValues": [],
+                    "created": "2021-06-22T23:12:44.197",
+                    "displayInList": false,
+                    "displayName": "AMR - Feed Laboratory",
+                    "displayShortName": "AMR - Feed Lab",
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "aZ2h3qAYjqd",
+                    "lastUpdated": "2021-06-28T05:22:33.145",
+                    "mandatory": false,
+                    "name": "AMR - Feed Laboratory",
+                    "program": {
+                        "id": "s2F33R4jnPZ"
+                    },
+                    "programTrackedEntityAttributeGroups": [],
+                    "renderOptionsAsRadio": false,
+                    "searchable": false,
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "sortOrder": 1,
+                    "trackedEntityAttribute": {
+                        "id": "LQZywhYcISY"
+                    },
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "valueType": "ORGANISATION_UNIT"
+                },
+                {
+                    "access": {
+                        "delete": true,
+                        "externalize": true,
+                        "manage": true,
+                        "read": true,
+                        "update": true,
+                        "write": true
+                    },
+                    "attributeValues": [],
+                    "created": "2021-06-22T23:12:44.197",
+                    "displayInList": true,
+                    "displayName": "AMR - Feed Pathogen",
+                    "displayShortName": "AMR - Feed Pathogen",
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "ITE6315Eoo8",
+                    "lastUpdated": "2021-06-28T05:22:33.145",
+                    "mandatory": true,
+                    "name": "AMR - Feed Pathogen",
+                    "program": {
+                        "id": "s2F33R4jnPZ"
+                    },
+                    "programTrackedEntityAttributeGroups": [],
+                    "renderOptionsAsRadio": false,
+                    "searchable": false,
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "sortOrder": 2,
+                    "trackedEntityAttribute": {
+                        "id": "opkhFoeEz9m"
+                    },
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "valueType": "TEXT"
+                },
+                {
+                    "access": {
+                        "delete": true,
+                        "externalize": true,
+                        "manage": true,
+                        "read": true,
+                        "update": true,
+                        "write": true
+                    },
+                    "attributeValues": [],
+                    "created": "2021-06-22T23:12:44.197",
+                    "displayInList": true,
+                    "displayName": "AMR - Feed Specimen Type (Feed)",
+                    "displayShortName": "AMR - Feed Specimen Type (Fe)",
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "lFh41ybwOHr",
+                    "lastUpdated": "2021-06-28T05:22:33.145",
+                    "mandatory": true,
+                    "name": "AMR - Feed Specimen Type (Feed)",
+                    "program": {
+                        "id": "s2F33R4jnPZ"
+                    },
+                    "programTrackedEntityAttributeGroups": [],
+                    "renderOptionsAsRadio": false,
+                    "searchable": false,
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "sortOrder": 3,
+                    "trackedEntityAttribute": {
+                        "id": "lFyQfRk7yUv"
+                    },
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "valueType": "TEXT"
+                },
+                {
+                    "access": {
+                        "delete": true,
+                        "externalize": true,
+                        "manage": true,
+                        "read": true,
+                        "update": true,
+                        "write": true
+                    },
+                    "attributeValues": [],
+                    "created": "2021-06-10T04:15:08.880",
+                    "displayInList": true,
+                    "displayName": "AMR - Feed ID_OriginatingEntity",
+                    "displayShortName": "AMR - Feed ID_OriginatingEntity",
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "mffmx9unOPZ",
+                    "lastUpdated": "2021-06-28T05:22:33.145",
+                    "mandatory": false,
+                    "name": "AMR - Feed ID_OriginatingEntity",
+                    "program": {
+                        "id": "s2F33R4jnPZ"
+                    },
+                    "programTrackedEntityAttributeGroups": [],
+                    "renderOptionsAsRadio": false,
+                    "searchable": false,
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "sortOrder": 4,
+                    "trackedEntityAttribute": {
+                        "id": "QznE0JyWMCT"
+                    },
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "valueType": "TEXT"
+                },
+                {
+                    "access": {
+                        "delete": true,
+                        "externalize": true,
+                        "manage": true,
+                        "read": true,
+                        "update": true,
+                        "write": true
+                    },
+                    "attributeValues": [],
+                    "created": "2021-06-22T23:12:44.197",
+                    "displayInList": true,
+                    "displayName": "AMR - Feed ID_Specimen",
+                    "displayShortName": "AMR - Feed ID_Specimen",
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "GYlpnEGECsD",
+                    "lastUpdated": "2021-06-28T05:22:33.145",
+                    "mandatory": false,
+                    "name": "AMR - Feed ID_Specimen",
+                    "program": {
+                        "id": "s2F33R4jnPZ"
+                    },
+                    "programTrackedEntityAttributeGroups": [],
+                    "renderOptionsAsRadio": false,
+                    "searchable": false,
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "sortOrder": 5,
+                    "trackedEntityAttribute": {
+                        "id": "eaqQd1d6yAV"
+                    },
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "valueType": "TEXT"
+                },
+                {
+                    "access": {
+                        "delete": true,
+                        "externalize": true,
+                        "manage": true,
+                        "read": true,
+                        "update": true,
+                        "write": true
+                    },
+                    "attributeValues": [],
+                    "created": "2021-06-22T23:12:44.197",
+                    "displayInList": true,
+                    "displayName": "AMR - Feed ID_OH_AMR",
+                    "displayShortName": "AMR - Feed ID_OH_AMR",
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "LnktVmooGBK",
+                    "lastUpdated": "2021-06-28T05:22:33.146",
+                    "mandatory": false,
+                    "name": "AMR - Feed ID_OH_AMR",
+                    "program": {
+                        "id": "s2F33R4jnPZ"
+                    },
+                    "programTrackedEntityAttributeGroups": [],
+                    "renderOptionsAsRadio": false,
+                    "searchable": false,
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "sortOrder": 6,
+                    "trackedEntityAttribute": {
+                        "id": "qaQzslMuVac"
+                    },
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "valueType": "TEXT"
+                }
+            ],
+            "programType": "WITH_REGISTRATION",
+            "selectEnrollmentDatesInFuture": true,
+            "selectIncidentDatesInFuture": true,
+            "sharing": {
+                "external": false,
+                "public": "--------",
+                "userGroups": {
+                    "Awfb9EPz65B": {
+                        "access": "r-rw----",
+                        "id": "Awfb9EPz65B"
+                    },
+                    "N5ZAdfqyBlM": {
+                        "access": "r-r-----",
+                        "id": "N5ZAdfqyBlM"
+                    },
+                    "hAlY0mdsYD4": {
+                        "access": "rwr-----",
+                        "id": "hAlY0mdsYD4"
+                    },
+                    "n9khxTZJ3wz": {
+                        "access": "r-rw----",
+                        "id": "n9khxTZJ3wz"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "AMR - Feed",
+            "skipOffline": false,
+            "trackedEntityType": {
+                "id": "tuhi0maUrlh"
+            },
+            "translations": [],
+            "useFirstStageDuringRegistration": false,
+            "version": 5
+        }
+    ]
+}

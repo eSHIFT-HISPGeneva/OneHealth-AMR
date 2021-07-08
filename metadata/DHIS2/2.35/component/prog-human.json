@@ -1,0 +1,794 @@
+{
+    "date": "2021-06-28T05:57:58.389",
+    "programStageDataElements": [
+        {
+            "allowFutureDate": false,
+            "allowProvidedElsewhere": false,
+            "compulsory": false,
+            "created": "2021-05-26T05:48:16.350",
+            "dataElement": {
+                "id": "sjggkgBfIWE"
+            },
+            "displayInReports": false,
+            "id": "sQrST31gRqP",
+            "lastUpdated": "2021-06-28T02:36:34.952",
+            "programStage": {
+                "id": "JkrGmcLg6Zm"
+            },
+            "renderOptionsAsRadio": false,
+            "skipSynchronization": false,
+            "sortOrder": 5
+        },
+        {
+            "allowFutureDate": false,
+            "allowProvidedElsewhere": false,
+            "compulsory": false,
+            "created": "2021-05-26T08:00:07.866",
+            "dataElement": {
+                "id": "C25kY3E21zv"
+            },
+            "displayInReports": false,
+            "id": "m4XlMGynn6h",
+            "lastUpdated": "2021-06-28T02:36:34.952",
+            "programStage": {
+                "id": "JkrGmcLg6Zm"
+            },
+            "renderOptionsAsRadio": false,
+            "skipSynchronization": false,
+            "sortOrder": 6
+        },
+        {
+            "allowFutureDate": false,
+            "allowProvidedElsewhere": false,
+            "compulsory": true,
+            "created": "2021-05-26T05:48:16.350",
+            "dataElement": {
+                "id": "gaCDwmKm768"
+            },
+            "displayInReports": false,
+            "id": "YmiNcNY66mE",
+            "lastUpdated": "2021-06-28T02:36:34.952",
+            "programStage": {
+                "id": "JkrGmcLg6Zm"
+            },
+            "renderOptionsAsRadio": false,
+            "skipSynchronization": false,
+            "sortOrder": 3
+        },
+    ],
+    "programStageSections": [
+        {
+            "created": "2021-05-26T05:48:16.300",
+            "dataElements": [
+                {
+                    "id": "gaCDwmKm768"
+                },
+                {
+                    "id": "C25kY3E21zv"
+                },
+                {
+                    "id": "sjggkgBfIWE"
+                }
+            ],
+            "id": "GHRd2S92rCn",
+            "lastUpdated": "2021-06-22T23:06:59.010",
+            "name": "Result",
+            "programIndicators": [],
+            "programStage": {
+                "id": "JkrGmcLg6Zm"
+            },
+            "renderType": {
+                "DESKTOP": {
+                    "type": "LISTING"
+                },
+                "MOBILE": {
+                    "type": "LISTING"
+                }
+            },
+            "sortOrder": 0,
+            "translations": []
+        }
+    ],
+    "programStages": [
+        {
+            "allowGenerateNextVisit": false,
+            "attributeValues": [],
+            "autoGenerateEvent": true,
+            "blockEntryForm": false,
+            "created": "2021-05-26T05:48:16.349",
+            "displayGenerateEventBox": true,
+            "enableUserAssignment": false,
+            "generatedByEnrollmentDate": false,
+            "hideDueDate": true,
+            "id": "JkrGmcLg6Zm",
+            "lastUpdated": "2021-06-28T02:36:34.951",
+            "minDaysFromStart": 0,
+            "name": "Human Details",
+            "notificationTemplates": [],
+            "openAfterEnrollment": true,
+            "preGenerateUID": false,
+            "program": {
+                "id": "wsHfxYEgte5"
+            },
+            "programStageDataElements": [
+                {
+                    "access": {
+                        "delete": true,
+                        "externalize": true,
+                        "manage": true,
+                        "read": true,
+                        "update": true,
+                        "write": true
+                    },
+                    "allowFutureDate": false,
+                    "allowProvidedElsewhere": false,
+                    "attributeValues": [],
+                    "compulsory": true,
+                    "created": "2021-05-26T05:48:16.350",
+                    "dataElement": {
+                        "id": "gaCDwmKm768"
+                    },
+                    "displayInReports": false,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "YmiNcNY66mE",
+                    "lastUpdated": "2021-06-28T02:36:34.952",
+                    "programStage": {
+                        "id": "JkrGmcLg6Zm"
+                    },
+                    "renderOptionsAsRadio": false,
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "skipSynchronization": false,
+                    "sortOrder": 3,
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": []
+                },
+                {
+                    "access": {
+                        "delete": true,
+                        "externalize": true,
+                        "manage": true,
+                        "read": true,
+                        "update": true,
+                        "write": true
+                    },
+                    "allowFutureDate": false,
+                    "allowProvidedElsewhere": false,
+                    "attributeValues": [],
+                    "compulsory": false,
+                    "created": "2021-05-26T05:48:16.350",
+                    "dataElement": {
+                        "id": "sjggkgBfIWE"
+                    },
+                    "displayInReports": false,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "sQrST31gRqP",
+                    "lastUpdated": "2021-06-28T02:36:34.952",
+                    "programStage": {
+                        "id": "JkrGmcLg6Zm"
+                    },
+                    "renderOptionsAsRadio": false,
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "skipSynchronization": false,
+                    "sortOrder": 5,
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": []
+                },
+                {
+                    "access": {
+                        "delete": true,
+                        "externalize": true,
+                        "manage": true,
+                        "read": true,
+                        "update": true,
+                        "write": true
+                    },
+                    "allowFutureDate": false,
+                    "allowProvidedElsewhere": false,
+                    "attributeValues": [],
+                    "compulsory": false,
+                    "created": "2021-05-26T08:00:07.866",
+                    "dataElement": {
+                        "id": "C25kY3E21zv"
+                    },
+                    "displayInReports": false,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "m4XlMGynn6h",
+                    "lastUpdated": "2021-06-28T02:36:34.952",
+                    "programStage": {
+                        "id": "JkrGmcLg6Zm"
+                    },
+                    "renderOptionsAsRadio": false,
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "skipSynchronization": false,
+                    "sortOrder": 6,
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": []
+                }
+            ],
+            "programStageSections": [
+                {
+                    "id": "GHRd2S92rCn"
+                }
+            ],
+            "remindCompleted": false,
+            "repeatable": true,
+            "sharing": {
+                "external": false,
+                "public": "--------",
+                "userGroups": {
+                    "Awfb9EPz65B": {
+                        "access": "r-rw----",
+                        "id": "Awfb9EPz65B"
+                    },
+                    "CxDSjSRwf2G": {
+                        "access": "r-rw----",
+                        "id": "CxDSjSRwf2G"
+                    },
+                    "aCwfOkuf4sW": {
+                        "access": "r-r-----",
+                        "id": "aCwfOkuf4sW"
+                    },
+                    "hAlY0mdsYD4": {
+                        "access": "rwr-----",
+                        "id": "hAlY0mdsYD4"
+                    }
+                },
+                "users": {}
+            },
+            "sortOrder": 1,
+            "translations": [],
+            "validationStrategy": "ON_COMPLETE"
+        }
+    ],
+    "programTrackedEntityAttributes": [
+        {
+            "created": "2021-06-20T23:01:13.456",
+            "displayInList": true,
+            "id": "s01CpUuPEPT",
+            "lastUpdated": "2021-06-28T05:23:50.835",
+            "mandatory": false,
+            "program": {
+                "id": "wsHfxYEgte5"
+            },
+            "programTrackedEntityAttributeGroups": [],
+            "renderOptionsAsRadio": false,
+            "searchable": false,
+            "sortOrder": 6,
+            "trackedEntityAttribute": {
+                "id": "qaQzslMuVac"
+            }
+        },
+        {
+            "created": "2021-06-22T21:23:31.118",
+            "displayInList": true,
+            "id": "he9AMMOYZir",
+            "lastUpdated": "2021-06-28T05:23:50.834",
+            "mandatory": true,
+            "program": {
+                "id": "wsHfxYEgte5"
+            },
+            "programTrackedEntityAttributeGroups": [],
+            "renderOptionsAsRadio": false,
+            "searchable": false,
+            "sortOrder": 3,
+            "trackedEntityAttribute": {
+                "id": "NoTuZ3jydbw"
+            }
+        },
+        {
+            "created": "2021-06-22T21:23:31.118",
+            "displayInList": false,
+            "id": "rjBg6tiRqew",
+            "lastUpdated": "2021-06-28T05:23:50.834",
+            "mandatory": false,
+            "program": {
+                "id": "wsHfxYEgte5"
+            },
+            "programTrackedEntityAttributeGroups": [],
+            "renderOptionsAsRadio": false,
+            "searchable": false,
+            "sortOrder": 1,
+            "trackedEntityAttribute": {
+                "id": "LQZywhYcISY"
+            }
+        },
+        {
+            "created": "2021-06-22T21:23:31.118",
+            "displayInList": true,
+            "id": "SRopAlAL8xi",
+            "lastUpdated": "2021-06-28T05:23:50.834",
+            "mandatory": true,
+            "program": {
+                "id": "wsHfxYEgte5"
+            },
+            "programTrackedEntityAttributeGroups": [],
+            "renderOptionsAsRadio": false,
+            "searchable": false,
+            "sortOrder": 2,
+            "trackedEntityAttribute": {
+                "id": "opkhFoeEz9m"
+            }
+        },
+        {
+            "created": "2021-05-26T05:48:16.274",
+            "displayInList": true,
+            "id": "zTfZuwA19Jc",
+            "lastUpdated": "2021-06-28T05:23:50.834",
+            "mandatory": false,
+            "program": {
+                "id": "wsHfxYEgte5"
+            },
+            "programTrackedEntityAttributeGroups": [],
+            "renderOptionsAsRadio": false,
+            "searchable": false,
+            "sortOrder": 4,
+            "trackedEntityAttribute": {
+                "id": "QznE0JyWMCT"
+            }
+        },
+        {
+            "created": "2021-05-26T05:48:16.274",
+            "displayInList": true,
+            "id": "FNTqCVyAkhp",
+            "lastUpdated": "2021-06-28T05:23:50.835",
+            "mandatory": false,
+            "program": {
+                "id": "wsHfxYEgte5"
+            },
+            "programTrackedEntityAttributeGroups": [],
+            "renderOptionsAsRadio": false,
+            "searchable": false,
+            "sortOrder": 8,
+            "trackedEntityAttribute": {
+                "id": "TRm4iaYikdK"
+            }
+        },
+        {
+            "created": "2021-06-20T23:01:13.458",
+            "displayInList": true,
+            "id": "arWMJ9Zf9v7",
+            "lastUpdated": "2021-06-28T05:23:50.834",
+            "mandatory": false,
+            "program": {
+                "id": "wsHfxYEgte5"
+            },
+            "programTrackedEntityAttributeGroups": [],
+            "renderOptionsAsRadio": false,
+            "searchable": false,
+            "sortOrder": 5,
+            "trackedEntityAttribute": {
+                "id": "eaqQd1d6yAV"
+            }
+        },
+        {
+            "created": "2021-05-26T05:48:16.274",
+            "displayInList": true,
+            "id": "no2bp6BnNCZ",
+            "lastUpdated": "2021-06-28T05:23:50.835",
+            "mandatory": false,
+            "program": {
+                "id": "wsHfxYEgte5"
+            },
+            "programTrackedEntityAttributeGroups": [],
+            "renderOptionsAsRadio": false,
+            "searchable": false,
+            "sortOrder": 7,
+            "trackedEntityAttribute": {
+                "id": "DYsNDR4nCWB"
+            }
+        }
+    ],
+    "programs": [
+        {
+            "accessLevel": "OPEN",
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "bjDvmb4bfuf"
+            },
+            "completeEventsExpiryDays": 0,
+            "created": "2021-05-26T05:48:16.402",
+            "displayFrontPageList": true,
+            "displayIncidentDate": false,
+            "expiryDays": 0,
+            "id": "wsHfxYEgte5",
+            "ignoreOverdueEvents": false,
+            "lastUpdated": "2021-06-28T05:23:50.834",
+            "maxTeiCountToReturn": 0,
+            "minAttributesRequiredToSearch": 1,
+            "name": "AMR - Human",
+            "notificationTemplates": [],
+            "onlyEnrollOnce": false,
+            "programSections": [],
+            "programStages": [
+                {
+                    "id": "JkrGmcLg6Zm"
+                }
+            ],
+            "programTrackedEntityAttributes": [
+                {
+                    "access": {
+                        "delete": true,
+                        "externalize": true,
+                        "manage": true,
+                        "read": true,
+                        "update": true,
+                        "write": true
+                    },
+                    "attributeValues": [],
+                    "created": "2021-06-22T21:23:31.118",
+                    "displayInList": false,
+                    "displayName": "AMR - Human Laboratory",
+                    "displayShortName": "AMR - Human Lab",
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "rjBg6tiRqew",
+                    "lastUpdated": "2021-06-28T05:23:50.834",
+                    "mandatory": false,
+                    "name": "AMR - Human Laboratory",
+                    "program": {
+                        "id": "wsHfxYEgte5"
+                    },
+                    "programTrackedEntityAttributeGroups": [],
+                    "renderOptionsAsRadio": false,
+                    "searchable": false,
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "sortOrder": 1,
+                    "trackedEntityAttribute": {
+                        "id": "LQZywhYcISY"
+                    },
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "valueType": "ORGANISATION_UNIT"
+                },
+                {
+                    "access": {
+                        "delete": true,
+                        "externalize": true,
+                        "manage": true,
+                        "read": true,
+                        "update": true,
+                        "write": true
+                    },
+                    "attributeValues": [],
+                    "created": "2021-06-22T21:23:31.118",
+                    "displayInList": true,
+                    "displayName": "AMR - Human Pathogen",
+                    "displayShortName": "AMR - Human Pathogen",
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "SRopAlAL8xi",
+                    "lastUpdated": "2021-06-28T05:23:50.834",
+                    "mandatory": true,
+                    "name": "AMR - Human Pathogen",
+                    "program": {
+                        "id": "wsHfxYEgte5"
+                    },
+                    "programTrackedEntityAttributeGroups": [],
+                    "renderOptionsAsRadio": false,
+                    "searchable": false,
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "sortOrder": 2,
+                    "trackedEntityAttribute": {
+                        "id": "opkhFoeEz9m"
+                    },
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "valueType": "TEXT"
+                },
+                {
+                    "access": {
+                        "delete": true,
+                        "externalize": true,
+                        "manage": true,
+                        "read": true,
+                        "update": true,
+                        "write": true
+                    },
+                    "attributeValues": [],
+                    "created": "2021-06-22T21:23:31.118",
+                    "displayInList": true,
+                    "displayName": "AMR - Human Specimen Type (Human)",
+                    "displayShortName": "AMR - Human Specimen Type (H)",
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "he9AMMOYZir",
+                    "lastUpdated": "2021-06-28T05:23:50.834",
+                    "mandatory": true,
+                    "name": "AMR - Human Specimen Type (Human)",
+                    "program": {
+                        "id": "wsHfxYEgte5"
+                    },
+                    "programTrackedEntityAttributeGroups": [],
+                    "renderOptionsAsRadio": false,
+                    "searchable": false,
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "sortOrder": 3,
+                    "trackedEntityAttribute": {
+                        "id": "NoTuZ3jydbw"
+                    },
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "valueType": "TEXT"
+                },
+                {
+                    "access": {
+                        "delete": true,
+                        "externalize": true,
+                        "manage": true,
+                        "read": true,
+                        "update": true,
+                        "write": true
+                    },
+                    "attributeValues": [],
+                    "created": "2021-05-26T05:48:16.274",
+                    "displayInList": true,
+                    "displayName": "AMR - Human ID_OriginatingEntity",
+                    "displayShortName": "AMR - Human ID_OriginatingEntity",
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "zTfZuwA19Jc",
+                    "lastUpdated": "2021-06-28T05:23:50.834",
+                    "mandatory": false,
+                    "name": "AMR - Human ID_OriginatingEntity",
+                    "program": {
+                        "id": "wsHfxYEgte5"
+                    },
+                    "programTrackedEntityAttributeGroups": [],
+                    "renderOptionsAsRadio": false,
+                    "searchable": false,
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "sortOrder": 4,
+                    "trackedEntityAttribute": {
+                        "id": "QznE0JyWMCT"
+                    },
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "valueType": "TEXT"
+                },
+                {
+                    "access": {
+                        "delete": true,
+                        "externalize": true,
+                        "manage": true,
+                        "read": true,
+                        "update": true,
+                        "write": true
+                    },
+                    "attributeValues": [],
+                    "created": "2021-06-20T23:01:13.458",
+                    "displayInList": true,
+                    "displayName": "AMR - Human ID_Specimen",
+                    "displayShortName": "AMR - Human ID_Specimen",
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "arWMJ9Zf9v7",
+                    "lastUpdated": "2021-06-28T05:23:50.834",
+                    "mandatory": false,
+                    "name": "AMR - Human ID_Specimen",
+                    "program": {
+                        "id": "wsHfxYEgte5"
+                    },
+                    "programTrackedEntityAttributeGroups": [],
+                    "renderOptionsAsRadio": false,
+                    "searchable": false,
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "sortOrder": 5,
+                    "trackedEntityAttribute": {
+                        "id": "eaqQd1d6yAV"
+                    },
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "valueType": "TEXT"
+                },
+                {
+                    "access": {
+                        "delete": true,
+                        "externalize": true,
+                        "manage": true,
+                        "read": true,
+                        "update": true,
+                        "write": true
+                    },
+                    "attributeValues": [],
+                    "created": "2021-06-20T23:01:13.456",
+                    "displayInList": true,
+                    "displayName": "AMR - Human ID_OH_AMR",
+                    "displayShortName": "AMR - Human ID_OH_AMR",
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "s01CpUuPEPT",
+                    "lastUpdated": "2021-06-28T05:23:50.835",
+                    "mandatory": false,
+                    "name": "AMR - Human ID_OH_AMR",
+                    "program": {
+                        "id": "wsHfxYEgte5"
+                    },
+                    "programTrackedEntityAttributeGroups": [],
+                    "renderOptionsAsRadio": false,
+                    "searchable": false,
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "sortOrder": 6,
+                    "trackedEntityAttribute": {
+                        "id": "qaQzslMuVac"
+                    },
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "valueType": "TEXT"
+                },
+                {
+                    "access": {
+                        "delete": true,
+                        "externalize": true,
+                        "manage": true,
+                        "read": true,
+                        "update": true,
+                        "write": true
+                    },
+                    "attributeValues": [],
+                    "created": "2021-05-26T05:48:16.274",
+                    "displayInList": true,
+                    "displayName": "AMR - Human Sex",
+                    "displayShortName": "AMR - Human Sex",
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "no2bp6BnNCZ",
+                    "lastUpdated": "2021-06-28T05:23:50.835",
+                    "mandatory": false,
+                    "name": "AMR - Human Sex",
+                    "program": {
+                        "id": "wsHfxYEgte5"
+                    },
+                    "programTrackedEntityAttributeGroups": [],
+                    "renderOptionsAsRadio": false,
+                    "searchable": false,
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "sortOrder": 7,
+                    "trackedEntityAttribute": {
+                        "id": "DYsNDR4nCWB"
+                    },
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "valueType": "TEXT"
+                },
+                {
+                    "access": {
+                        "delete": true,
+                        "externalize": true,
+                        "manage": true,
+                        "read": true,
+                        "update": true,
+                        "write": true
+                    },
+                    "attributeValues": [],
+                    "created": "2021-05-26T05:48:16.274",
+                    "displayInList": true,
+                    "displayName": "AMR - Human Age (Years)",
+                    "displayShortName": "AMR - Human Age (Years)",
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "FNTqCVyAkhp",
+                    "lastUpdated": "2021-06-28T05:23:50.835",
+                    "mandatory": false,
+                    "name": "AMR - Human Age (Years)",
+                    "program": {
+                        "id": "wsHfxYEgte5"
+                    },
+                    "programTrackedEntityAttributeGroups": [],
+                    "renderOptionsAsRadio": false,
+                    "searchable": false,
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "sortOrder": 8,
+                    "trackedEntityAttribute": {
+                        "id": "TRm4iaYikdK"
+                    },
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": [],
+                    "valueType": "NUMBER"
+                }
+            ],
+            "programType": "WITH_REGISTRATION",
+            "selectEnrollmentDatesInFuture": true,
+            "selectIncidentDatesInFuture": true,
+            "sharing": {
+                "external": false,
+                "public": "--------",
+                "userGroups": {
+                    "Awfb9EPz65B": {
+                        "access": "r-rw----",
+                        "id": "Awfb9EPz65B"
+                    },
+                    "CxDSjSRwf2G": {
+                        "access": "r-rw----",
+                        "id": "CxDSjSRwf2G"
+                    },
+                    "aCwfOkuf4sW": {
+                        "access": "r-r-----",
+                        "id": "aCwfOkuf4sW"
+                    },
+                    "hAlY0mdsYD4": {
+                        "access": "rwr-----",
+                        "id": "hAlY0mdsYD4"
+                    }
+                },
+                "users": {}
+            },
+            "shortName": "AMR - Human",
+            "skipOffline": false,
+            "trackedEntityType": {
+                "id": "tuhi0maUrlh"
+            },
+            "translations": [],
+            "useFirstStageDuringRegistration": false,
+            "version": 17
+        }
+    ]
+}
