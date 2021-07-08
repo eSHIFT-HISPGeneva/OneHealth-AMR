@@ -5,9 +5,9 @@ library(dplyr)
 library(DBI)
 library(RCurl)
 
-con <- dbConnect(PostgreSQL(), dbname = 'glass2', host = 'localhost', port = 5432, user = 'xxxxxx', password = 'xxxxxx')
+con <- dbConnect(PostgreSQL(), dbname = 'dbname', host = 'host', port = 5432, user = 'xxxxxx', password = 'xxxxxx')
 
-ESCCOL <- getURL(paste0("https://showcase.find.amr.health/dhis2amr01/api/29/analytics/events/aggregate/wsHfxYEgte5.csv?dimension=ou:yHpoZaC3HVr&dimension=pe:LAST_YEAR&dimension=JkrGmcLg6Zm.C25kY3E21zv&dimension=JkrGmcLg6Zm.opkhFoeEz9m:IN:eco&dimension=JkrGmcLg6Zm.NoTuZ3jydbw:IN:bl;ur;st&dimension=JkrGmcLg6Zm.DYsNDR4nCWB&dimension=JkrGmcLg6Zm.gaCDwmKm768:IN:J01CA01X;J01DD02;J01DD08;J01MA02;J01XB01;J01DD04;J01DH51;J01MA12;J01DH02;PenicillinG;J01EE04&dimension=JkrGmcLg6Zm.TRm4iaYikdK-oPyVHCMErH0&stage=JkrGmcLg6Zm&displayProperty=NAME&outputType=EVENT&outputIdScheme=NAME&paging=false"), userpwd="glass_report:Pa55word!", httpauth = 1L)
+ESCCOL <- getURL(paste0("https://domainname/dhis2instance/api/29/analytics/events/aggregate/wsHfxYEgte5.csv?dimension=ou:yHpoZaC3HVr&dimension=pe:LAST_YEAR&dimension=JkrGmcLg6Zm.C25kY3E21zv&dimension=JkrGmcLg6Zm.opkhFoeEz9m:IN:eco&dimension=JkrGmcLg6Zm.NoTuZ3jydbw:IN:bl;ur;st&dimension=JkrGmcLg6Zm.DYsNDR4nCWB&dimension=JkrGmcLg6Zm.gaCDwmKm768:IN:J01CA01X;J01DD02;J01DD08;J01MA02;J01XB01;J01DD04;J01DH51;J01MA12;J01DH02;PenicillinG;J01EE04&dimension=JkrGmcLg6Zm.TRm4iaYikdK-oPyVHCMErH0&stage=JkrGmcLg6Zm&displayProperty=NAME&outputType=EVENT&outputIdScheme=NAME&paging=false"), userpwd="glass_report:Pa55word!", httpauth = 1L)
 ESCCOL <- read.table(text = ESCCOL, sep =",", header = TRUE, stringsAsFactors = FALSE)
 # SXT
 if(nrow(ESCCOL) >= 1){
@@ -16,7 +16,7 @@ names(ESCCOL)[1] <- "status"
 ESCCOL
 
 
-KLEPNE <- getURL(paste0("https://showcase.find.amr.health/dhis2amr01/api/29/analytics/events/aggregate/wsHfxYEgte5.csv?dimension=ou:yHpoZaC3HVr&dimension=pe:LAST_YEAR&dimension=JkrGmcLg6Zm.C25kY3E21zv&dimension=JkrGmcLg6Zm.opkhFoeEz9m:IN:kpn&dimension=JkrGmcLg6Zm.NoTuZ3jydbw:IN:ur;st;bl&dimension=JkrGmcLg6Zm.DYsNDR4nCWB&dimension=JkrGmcLg6Zm.gaCDwmKm768:IN:J01DD02;J01DD08;J01MA02;J01XB01;J01DD04;J01DD01;J01DH51;J01MA12;J01DH02;J01EE03&dimension=JkrGmcLg6Zm.TRm4iaYikdK-oPyVHCMErH0&stage=JkrGmcLg6Zm&displayProperty=NAME&outputType=EVENT&outputIdScheme=NAME&paging=false"), userpwd="glass_report:Pa55word!", httpauth = 1L)
+KLEPNE <- getURL(paste0("https://domainname/dhis2instance/api/29/analytics/events/aggregate/wsHfxYEgte5.csv?dimension=ou:yHpoZaC3HVr&dimension=pe:LAST_YEAR&dimension=JkrGmcLg6Zm.C25kY3E21zv&dimension=JkrGmcLg6Zm.opkhFoeEz9m:IN:kpn&dimension=JkrGmcLg6Zm.NoTuZ3jydbw:IN:ur;st;bl&dimension=JkrGmcLg6Zm.DYsNDR4nCWB&dimension=JkrGmcLg6Zm.gaCDwmKm768:IN:J01DD02;J01DD08;J01MA02;J01XB01;J01DD04;J01DD01;J01DH51;J01MA12;J01DH02;J01EE03&dimension=JkrGmcLg6Zm.TRm4iaYikdK-oPyVHCMErH0&stage=JkrGmcLg6Zm&displayProperty=NAME&outputType=EVENT&outputIdScheme=NAME&paging=false"), userpwd="glass_report:Pa55word!", httpauth = 1L)
 KLEPNE <- read.table(text = KLEPNE, sep =",", header = TRUE, stringsAsFactors = FALSE)
 # SXT
 if(nrow(KLEPNE) >= 1){
@@ -25,7 +25,7 @@ names(KLEPNE)[1] <- "status"
 KLEPNE
 
 
-ACISPP <- getURL(paste0("https://showcase.find.amr.health/dhis2amr01/api/29/analytics/events/aggregate/wsHfxYEgte5.csv?dimension=ou:yHpoZaC3HVr&dimension=pe:LAST_YEAR&dimension=JkrGmcLg6Zm.C25kY3E21zv&dimension=JkrGmcLg6Zm.opkhFoeEz9m:IN:ac-&dimension=JkrGmcLg6Zm.NoTuZ3jydbw:IN:ur;st;bl&dimension=JkrGmcLg6Zm.DYsNDR4nCWB&dimension=JkrGmcLg6Zm.gaCDwmKm768:IN:J01DD02;J01DD08;J01MA02;J01XB01;J01DD04;J01DD01;J01DH51;J01MA12;J01DH02;J01EE03&dimension=JkrGmcLg6Zm.TRm4iaYikdK-oPyVHCMErH0&stage=JkrGmcLg6Zm&displayProperty=NAME&outputType=EVENT&outputIdScheme=NAME&paging=false"), userpwd="glass_report:Pa55word!", httpauth = 1L)
+ACISPP <- getURL(paste0("https://domainname/dhis2instance/api/29/analytics/events/aggregate/wsHfxYEgte5.csv?dimension=ou:yHpoZaC3HVr&dimension=pe:LAST_YEAR&dimension=JkrGmcLg6Zm.C25kY3E21zv&dimension=JkrGmcLg6Zm.opkhFoeEz9m:IN:ac-&dimension=JkrGmcLg6Zm.NoTuZ3jydbw:IN:ur;st;bl&dimension=JkrGmcLg6Zm.DYsNDR4nCWB&dimension=JkrGmcLg6Zm.gaCDwmKm768:IN:J01DD02;J01DD08;J01MA02;J01XB01;J01DD04;J01DD01;J01DH51;J01MA12;J01DH02;J01EE03&dimension=JkrGmcLg6Zm.TRm4iaYikdK-oPyVHCMErH0&stage=JkrGmcLg6Zm&displayProperty=NAME&outputType=EVENT&outputIdScheme=NAME&paging=false"), userpwd="glass_report:Pa55word!", httpauth = 1L)
 ACISPP <- read.table(text = ACISPP, sep =",", header = TRUE, stringsAsFactors = FALSE)
 # SXT
 if(nrow(ACISPP) >= 1){
@@ -34,7 +34,7 @@ names(ACISPP)[1] <- "status"
 ACISPP
 
 
-NEIGON <- getURL(paste0("https://showcase.find.amr.health/dhis2amr01/api/29/analytics/events/aggregate/wsHfxYEgte5.csv?dimension=ou:yHpoZaC3HVr&dimension=pe:LAST_YEAR&dimension=JkrGmcLg6Zm.C25kY3E21zv&dimension=JkrGmcLg6Zm.opkhFoeEz9m:IN:ac-&dimension=JkrGmcLg6Zm.NoTuZ3jydbw:IN:bl&dimension=JkrGmcLg6Zm.DYsNDR4nCWB&dimension=JkrGmcLg6Zm.gaCDwmKm768:IN:J01GB06;J01FA10;J01DD02;J01DD08;J01MA02;J01DD04;J01DD01;J01GB03;J01MA12&dimension=JkrGmcLg6Zm.TRm4iaYikdK-oPyVHCMErH0&stage=JkrGmcLg6Zm&displayProperty=NAME&outputType=EVENT&outputIdScheme=NAME&paging=false"), userpwd="glass_report:Pa55word!", httpauth = 1L)
+NEIGON <- getURL(paste0("https://domainname/dhis2instance/api/29/analytics/events/aggregate/wsHfxYEgte5.csv?dimension=ou:yHpoZaC3HVr&dimension=pe:LAST_YEAR&dimension=JkrGmcLg6Zm.C25kY3E21zv&dimension=JkrGmcLg6Zm.opkhFoeEz9m:IN:ac-&dimension=JkrGmcLg6Zm.NoTuZ3jydbw:IN:bl&dimension=JkrGmcLg6Zm.DYsNDR4nCWB&dimension=JkrGmcLg6Zm.gaCDwmKm768:IN:J01GB06;J01FA10;J01DD02;J01DD08;J01MA02;J01DD04;J01DD01;J01GB03;J01MA12&dimension=JkrGmcLg6Zm.TRm4iaYikdK-oPyVHCMErH0&stage=JkrGmcLg6Zm&displayProperty=NAME&outputType=EVENT&outputIdScheme=NAME&paging=false"), userpwd="glass_report:Pa55word!", httpauth = 1L)
 NEIGON <- read.table(text = NEIGON, sep =",", header = TRUE, stringsAsFactors = FALSE)
 # SXT
 if(nrow(NEIGON) >= 1){
@@ -43,7 +43,7 @@ names(NEIGON)[1] <- "status"
 NEIGON
 
 
-SALSPP <- getURL(paste0("https://showcase.find.amr.health/dhis2amr01/api/29/analytics/events/aggregate/wsHfxYEgte5.csv?dimension=ou:yHpoZaC3HVr&dimension=pe:LAST_YEAR&dimension=JkrGmcLg6Zm.C25kY3E21zv&dimension=JkrGmcLg6Zm.opkhFoeEz9m:IN:sal&dimension=JkrGmcLg6Zm.NoTuZ3jydbw:IN:bl&dimension=JkrGmcLg6Zm.DYsNDR4nCWB&dimension=JkrGmcLg6Zm.gaCDwmKm768:IN:J01DD02;J01DD08;J01MA02;J01DD04;J01DH51;J01MA12;J01DH02&dimension=JkrGmcLg6Zm.TRm4iaYikdK-oPyVHCMErH0&stage=JkrGmcLg6Zm&displayProperty=NAME&outputType=EVENT&outputIdScheme=NAME&paging=false"), userpwd="glass_report:Pa55word!", httpauth = 1L)
+SALSPP <- getURL(paste0("https://domainname/dhis2instance/api/29/analytics/events/aggregate/wsHfxYEgte5.csv?dimension=ou:yHpoZaC3HVr&dimension=pe:LAST_YEAR&dimension=JkrGmcLg6Zm.C25kY3E21zv&dimension=JkrGmcLg6Zm.opkhFoeEz9m:IN:sal&dimension=JkrGmcLg6Zm.NoTuZ3jydbw:IN:bl&dimension=JkrGmcLg6Zm.DYsNDR4nCWB&dimension=JkrGmcLg6Zm.gaCDwmKm768:IN:J01DD02;J01DD08;J01MA02;J01DD04;J01DH51;J01MA12;J01DH02&dimension=JkrGmcLg6Zm.TRm4iaYikdK-oPyVHCMErH0&stage=JkrGmcLg6Zm&displayProperty=NAME&outputType=EVENT&outputIdScheme=NAME&paging=false"), userpwd="glass_report:Pa55word!", httpauth = 1L)
 SALSPP <- read.table(text = SALSPP, sep =",", header = TRUE, stringsAsFactors = FALSE)
 # SXT
 if(nrow(SALSPP) >= 1){
@@ -53,7 +53,7 @@ SALSPP
 
 
 
-STAAUR <- getURL(paste0("https://showcase.find.amr.health/dhis2amr01/api/29/analytics/events/aggregate/wsHfxYEgte5.csv?dimension=ou:yHpoZaC3HVr&dimension=pe:LAST_YEAR&dimension=JkrGmcLg6Zm.C25kY3E21zv&dimension=JkrGmcLg6Zm.opkhFoeEz9m:IN:sau&dimension=JkrGmcLg6Zm.NoTuZ3jydbw:IN:bl;ur;st&dimension=JkrGmcLg6Zm.DYsNDR4nCWB&dimension=JkrGmcLg6Zm.gaCDwmKm768:IN:J01CF04&dimension=JkrGmcLg6Zm.TRm4iaYikdK-oPyVHCMErH0&stage=JkrGmcLg6Zm&displayProperty=NAME&outputType=EVENT&outputIdScheme=NAME&paging=false"), userpwd="glass_report:Pa55word!", httpauth = 1L)
+STAAUR <- getURL(paste0("https://domainname/dhis2instance/api/29/analytics/events/aggregate/wsHfxYEgte5.csv?dimension=ou:yHpoZaC3HVr&dimension=pe:LAST_YEAR&dimension=JkrGmcLg6Zm.C25kY3E21zv&dimension=JkrGmcLg6Zm.opkhFoeEz9m:IN:sau&dimension=JkrGmcLg6Zm.NoTuZ3jydbw:IN:bl;ur;st&dimension=JkrGmcLg6Zm.DYsNDR4nCWB&dimension=JkrGmcLg6Zm.gaCDwmKm768:IN:J01CF04&dimension=JkrGmcLg6Zm.TRm4iaYikdK-oPyVHCMErH0&stage=JkrGmcLg6Zm&displayProperty=NAME&outputType=EVENT&outputIdScheme=NAME&paging=false"), userpwd="glass_report:Pa55word!", httpauth = 1L)
 STAAUR <- read.table(text = STAAUR, sep =",", header = TRUE, stringsAsFactors = FALSE)
 # SXT
 if(nrow(STAAUR) >= 1){
@@ -62,7 +62,7 @@ names(STAAUR)[1] <- "status"
 STAAUR
 
 
-STRPNE <- getURL(paste0("https://showcase.find.amr.health/dhis2amr01/api/29/analytics/events/aggregate/wsHfxYEgte5.csv?dimension=ou:yHpoZaC3HVr&dimension=pe:LAST_YEAR&dimension=JkrGmcLg6Zm.C25kY3E21zv&dimension=JkrGmcLg6Zm.opkhFoeEz9m:IN:spn&dimension=JkrGmcLg6Zm.NoTuZ3jydbw:IN:bl&dimension=JkrGmcLg6Zm.DYsNDR4nCWB&dimension=JkrGmcLg6Zm.gaCDwmKm768:IN:J01CA01X;J01DD02;J01DD08;J01DD01;J01DD04;J01CF04;PenicillinG;J01EA01&dimension=JkrGmcLg6Zm.TRm4iaYikdK-oPyVHCMErH0&stage=JkrGmcLg6Zm&displayProperty=NAME&outputType=EVENT&outputIdScheme=NAME&paging=false"), userpwd="glass_report:Pa55word!", httpauth = 1L)
+STRPNE <- getURL(paste0("https://domainname/dhis2instance/api/29/analytics/events/aggregate/wsHfxYEgte5.csv?dimension=ou:yHpoZaC3HVr&dimension=pe:LAST_YEAR&dimension=JkrGmcLg6Zm.C25kY3E21zv&dimension=JkrGmcLg6Zm.opkhFoeEz9m:IN:spn&dimension=JkrGmcLg6Zm.NoTuZ3jydbw:IN:bl&dimension=JkrGmcLg6Zm.DYsNDR4nCWB&dimension=JkrGmcLg6Zm.gaCDwmKm768:IN:J01CA01X;J01DD02;J01DD08;J01DD01;J01DD04;J01CF04;PenicillinG;J01EA01&dimension=JkrGmcLg6Zm.TRm4iaYikdK-oPyVHCMErH0&stage=JkrGmcLg6Zm&displayProperty=NAME&outputType=EVENT&outputIdScheme=NAME&paging=false"), userpwd="glass_report:Pa55word!", httpauth = 1L)
 STRPNE <- read.table(text = STRPNE, sep =",", header = TRUE, stringsAsFactors = FALSE)
 # SXT
 if(nrow(STRPNE) >= 1){
@@ -154,7 +154,7 @@ glass_unique <- paste0(unlist(glass_unique), collapse = ',')
 
 # //////////////---------------- Sample file starting -------------/////////////////////
 
-Sample_file <- getURL(paste0("https://showcase.find.amr.health/dhis2amr01/api/29/analytics/events/aggregate/wsHfxYEgte5.csv?dimension=ou:yHpoZaC3HVr&dimension=pe:THIS_YEAR;LAST_YEAR&dimension=JkrGmcLg6Zm.NoTuZ3jydbw:IN:bl;st;ur&dimension=DYsNDR4nCWB&dimension=TRm4iaYikdK-oPyVHCMErH0&stage=JkrGmcLg6Zm&displayProperty=NAME&outputType=EVENT&outputIdScheme=NAME&paging=false"), userpwd="glass_report:Pa55word!", httpauth = 1L)
+Sample_file <- getURL(paste0("https://domainname/dhis2instance/api/29/analytics/events/aggregate/wsHfxYEgte5.csv?dimension=ou:yHpoZaC3HVr&dimension=pe:THIS_YEAR;LAST_YEAR&dimension=JkrGmcLg6Zm.NoTuZ3jydbw:IN:bl;st;ur&dimension=DYsNDR4nCWB&dimension=TRm4iaYikdK-oPyVHCMErH0&stage=JkrGmcLg6Zm&displayProperty=NAME&outputType=EVENT&outputIdScheme=NAME&paging=false"), userpwd="glass_report:Pa55word!", httpauth = 1L)
 Sample_file <- read.table(text = Sample_file, sep =",", header = TRUE, stringsAsFactors = FALSE)
 
 Sample_file
