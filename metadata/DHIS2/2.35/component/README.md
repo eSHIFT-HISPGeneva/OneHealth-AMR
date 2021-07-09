@@ -10,7 +10,7 @@ To be valid, the metadata objects __MUST be imported in the following order:__
 * Program Data Elements (dataelement-progs.json)
 * Tracker Programs (prog-_name_.sjon)
 ### Analytics Layer (aggregate AMR tables for analytics and reporting)
-* Aggregate Data Elements (dataelement-analytics.json)
+* Aggregate Data Model (aggregate-data-model.json)
 * Analytics - charts
 * Analytics - tables
 * Analtics - events
