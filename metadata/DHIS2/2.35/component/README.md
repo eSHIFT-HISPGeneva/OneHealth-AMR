@@ -14,4 +14,4 @@ To be valid, the metadata objects __MUST be imported in the following order:__
 * Analytics - Visualisations (visualisations.json) !!
 * Analytics - Dashboards (dashboards.json)
 
-!! Note: Before importing the visualisations layer, it is necessary to search and replace the placeholder national uid "replace_national_UID" with the DHIS2 UID for the organisation unit at the top the organisational tree (normally the country UID for national systems).
+__Note:__ Before importing the visualisations layer, it is necessary to search and replace the placeholder national uid "replace_national_UID" with the DHIS2 UID for the organisation unit at the top the organisational tree (normally the country UID for national systems).
