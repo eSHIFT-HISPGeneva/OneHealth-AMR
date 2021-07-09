@@ -10,7 +10,7 @@ This One Health AMR repository consistes of a set of metadata packages, report g
 ### Insallation Files for various AMR One Health solution elements
 * [DHIS2 Metadata Files - Individual Components](metadata/DHIS2/2.35/component)
 * [DHIS2 Metadata Files - Layers](metadata/DHIS2/2.35/layer)
-* [DHIS2 Metadata Files - Full Package](metadata/DHIS2/2.35/)
+* [DHIS2 Metadata Files - Full Package](metadata/DHIS2/2.35/fullstack)
 * [GLASS Data Model Script](scripts/)
 * [R Scripts - GLASS Report generation](scripts/)
 * [R Scripts - DHIS2 AMR Aggregation](scripts/)
