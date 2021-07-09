@@ -6,7 +6,7 @@ This One Health AMR repository consistes of a set of metadata packages, report g
 * [Logical Model - ODS](docs/logicalmodel-ods.md)
 * Logical Model - analytics
 * Logical Model - GLASS Reporting
-* [AMR One Health DHIS2 Metadata descriptions](docs/DHIS2-metadata-descriptions.md)
+* [AMR One Health DHIS2 JSON Insert Package and AMR Metadata descriptions](docs/DHIS2-metadata-descriptions.md)
 ### Insallation Files for various AMR One Health solution elements
 * [DHIS2 Metadata Files - Individual Components](metadata/DHIS2/2.35/component)
 * [DHIS2 Metadata Files - Layers](metadata/DHIS2/2.35/layer)
