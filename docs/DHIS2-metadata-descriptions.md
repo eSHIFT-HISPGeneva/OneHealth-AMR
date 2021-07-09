@@ -978,4 +978,4 @@ Organizational Unit mappings depend on the target DHIS2 implementation. For the 
 ```
 
 The screenshot below is the result of inserting the above JSON package.
-
+<img src="https://github.com/eSHIFT-HISPGeneva/OneHealth-AMR/blob/master/docs/images/TrackerJSONInsertResult.png">
