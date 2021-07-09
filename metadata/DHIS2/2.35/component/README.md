@@ -12,4 +12,4 @@ To be valid, the metadata objects __MUST be imported in the following order:__
 ### Analytics Layer (aggregate AMR tables for analytics and reporting)
 * Aggregate Data Model (aggregate-data-model.json)
 * Analytics - Visualisations (visualisations.json)
-* Analytics - Dashboards (visualisations.json)
+* Analytics - Dashboards (dashboards.json)
