@@ -2,8 +2,7 @@
 
 ## 5 Tracker Programs
 
-<img align="rignt" src="https://github.com/eSHIFT-HISPGeneva/OneHealth-AMR/blob/master/docs/images/AMRTrackerPrograms.png">
-There are five Tracker Programs in the AMR One Health Platform. The key difference between them is the look-up list values for Specimen Type, and the attributes stored for each type of entity (e.g., the human program includes age and sex demographic attributes, whereas animal will include species attributes etc.).
+<img align="rignt" src="https://github.com/eSHIFT-HISPGeneva/OneHealth-AMR/blob/master/docs/images/AMRTrackerPrograms-reduced.png">There are five Tracker Programs in the AMR One Health Platform. The key difference between them is the look-up list values for Specimen Type, and the attributes stored for each type of entity (e.g., the human program includes age and sex demographic attributes, whereas animal will include species attributes etc.). 
 
 The Specimen Type lookup list values are derived from the values and codes used by WHONET to support compatibility with one of the most widely used AMR laboratory tools.
 
