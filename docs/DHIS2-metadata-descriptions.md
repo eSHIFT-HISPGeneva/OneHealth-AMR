@@ -8,7 +8,7 @@ The Specimen Type lookup list values are derived from the values and codes used 
 
 ## Tracker Program Model
 
-The original model used during our AMR country pilots implemented a simple line-listing, with an antimicrobial data element for every possible qualitative and quantitative test result for a given pathogen and sample type. This model proved to be unwieldy as the system scaled due to the complexity of the coding necessary to generate aggregate results with so many data elements.
+<img align="right" src="https://github.com/eSHIFT-HISPGeneva/OneHealth-AMR/blob/master/docs/images/AMRTrackerStage-reduced.png"> The original model used during our AMR country pilots implemented a simple line-listing, with an antimicrobial data element for every possible qualitative and quantitative test result for a given pathogen and sample type. This model proved to be unwieldy as the system scaled due to the complexity of the coding necessary to generate aggregate results with so many data elements.
 
 The current model uses a single data element to represent the antimicrobial (a lookup list) and two data elements to represent the possible test results (qualitative and quantitative). These are modelled as a single repeating stage within each of the domain Tracker Programs. Details of the specimen type, pathogen, laboratory, and other identifiers or demographic information are stored as program attributes.
 
