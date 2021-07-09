@@ -11,6 +11,5 @@ To be valid, the metadata objects __MUST be imported in the following order:__
 * Tracker Programs (prog-_name_.sjon)
 ### Analytics Layer (aggregate AMR tables for analytics and reporting)
 * Aggregate Data Model (aggregate-data-model.json)
-* Analytics - charts
-* Analytics - tables
-* Analtics - events
+* Analytics - Visualisations (visualisations.json)
+* Analytics - Dashboards (visualisations.json)
