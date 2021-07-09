@@ -224,7 +224,7 @@
                     "translations": [],
                     "userAccesses": [],
                     "userGroupAccesses": []
-                },
+                }
             ],
             "programStageSections": [
                 {
@@ -674,5 +674,5 @@
             "useFirstStageDuringRegistration": true,
             "version": 13
         }
-    ],
+    ]
 }
