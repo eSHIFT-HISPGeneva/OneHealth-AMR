@@ -58,135 +58,16 @@
             "categoryCombo": {
                 "id": "bjDvmb4bfuf"
             },
-            "code": "SPEC_TYPE_HU",
-            "created": "2021-05-26T05:21:57.815",
+            "created": "2021-05-26T03:29:30.528",
             "domainType": "TRACKER",
-            "id": "IvVVi4ft0v8",
-            "lastUpdated": "2021-06-11T02:11:42.078",
+            "id": "gaCDwmKm768",
+            "lastUpdated": "2021-05-26T03:29:30.528",
             "legendSets": [],
-            "name": "Specimen Type (Human)",
+            "name": "Antimicrobial",
             "optionSet": {
-                "id": "IR7yv5Mn4BE"
+                "id": "aPkkDRMvi8U"
             },
-            "sharing": {
-                "external": false,
-                "public": "rw------",
-                "userGroups": {},
-                "users": {}
-            },
-            "shortName": "Specimen Type (H)",
-            "translations": [],
-            "valueType": "TEXT",
-            "zeroIsSignificant": false
-        },
-        {
-            "aggregationLevels": [],
-            "aggregationType": "NONE",
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "bjDvmb4bfuf"
-            },
-            "code": "SPEC_TYPE_AN",
-            "created": "2021-06-11T02:12:24.177",
-            "domainType": "TRACKER",
-            "id": "vxGMPZ98rVp",
-            "lastUpdated": "2021-06-11T02:12:24.177",
-            "legendSets": [],
-            "name": "Specimen Type (Animal)",
-            "optionSet": {
-                "id": "OGjIgXjSyB1"
-            },
-            "sharing": {
-                "external": false,
-                "public": "rw------",
-                "userGroups": {},
-                "users": {}
-            },
-            "shortName": "Specimen Type (A)",
-            "translations": [],
-            "valueType": "TEXT",
-            "zeroIsSignificant": false
-        },
-        {
-            "aggregationLevels": [],
-            "aggregationType": "NONE",
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "bjDvmb4bfuf"
-            },
-            "code": "SPEC_TYPE_EN",
-            "created": "2021-06-11T02:13:00.355",
-            "domainType": "TRACKER",
-            "id": "xhIBAlnWwpP",
-            "lastUpdated": "2021-06-11T02:13:00.355",
-            "legendSets": [],
-            "name": "Specimen Type (Environment)",
-            "optionSet": {
-                "id": "Xhoz6BW4aiz"
-            },
-            "sharing": {
-                "external": false,
-                "public": "rw------",
-                "userGroups": {},
-                "users": {}
-            },
-            "shortName": "Specimen Type (EN)",
-            "translations": [],
-            "valueType": "TEXT",
-            "zeroIsSignificant": false
-        },
-        {
-            "aggregationLevels": [],
-            "aggregationType": "NONE",
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "bjDvmb4bfuf"
-            },
-            "code": "SPEC_TYPE_FE",
-            "created": "2021-06-11T02:14:24.852",
-            "domainType": "TRACKER",
-            "id": "nm0NfU92Elb",
-            "lastUpdated": "2021-06-11T02:14:24.852",
-            "legendSets": [],
-            "name": "Specimen Type (Feed)",
-            "optionSet": {
-                "id": "moqzolg95jF"
-            },
-            "sharing": {
-                "external": false,
-                "public": "rw------",
-                "userGroups": {},
-                "users": {}
-            },
-            "shortName": "Specimen Type (Fe)",
-            "translations": [],
-            "valueType": "TEXT",
-            "zeroIsSignificant": false
-        },
-        {
-            "aggregationLevels": [],
-            "aggregationType": "NONE",
-            "attributeValues": [],
-            "categoryCombo": {
-                "id": "bjDvmb4bfuf"
-            },
-            "code": "SPEC_TYPE_FO",
-            "created": "2021-06-11T02:14:00.625",
-            "domainType": "TRACKER",
-            "id": "G2zKKZR8w7h",
-            "lastUpdated": "2021-06-11T02:14:00.625",
-            "legendSets": [],
-            "name": "Specimen Type (Food)",
-            "optionSet": {
-                "id": "n4XWK6sxsjP"
-            },
-            "sharing": {
-                "external": false,
-                "public": "rw------",
-                "userGroups": {},
-                "users": {}
-            },
-            "shortName": "Specimen Type (Fo)",
+            "shortName": "Antimicrobial",
             "translations": [],
             "valueType": "TEXT",
             "zeroIsSignificant": false
