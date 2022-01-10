@@ -5,7 +5,7 @@
             "attributeValues": [],
             "created": "2021-06-11T01:56:39.950",
             "id": "OGjIgXjSyB1",
-            "lastUpdated": "2021-06-16T21:41:50.588",
+            "lastUpdated": "2021-12-21T17:28:40.789",
             "name": "Specimen type (Animal)",
             "options": [
                 {
@@ -40,6 +40,9 @@
                 },
                 {
                     "id": "m5X2T5LZafQ"
+                },
+                {
+                    "id": "i760Yn0Mrl0"
                 }
             ],
             "sharing": {
@@ -195,6 +198,19 @@
                 "id": "OGjIgXjSyB1"
             },
             "sortOrder": 9,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "Undefined",
+            "created": "2021-12-04T04:45:56.614",
+            "id": "i760Yn0Mrl0",
+            "lastUpdated": "2021-12-04T04:45:56.627",
+            "name": "Undefined",
+            "optionSet": {
+                "id": "OGjIgXjSyB1"
+            },
+            "sortOrder": 12,
             "translations": []
         }
     ]
