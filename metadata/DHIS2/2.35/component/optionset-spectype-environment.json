@@ -5,7 +5,7 @@
             "attributeValues": [],
             "created": "2021-06-11T02:04:58.562",
             "id": "Xhoz6BW4aiz",
-            "lastUpdated": "2021-06-11T02:10:01.983",
+            "lastUpdated": "2022-01-10T21:26:11.095",
             "name": "Specimen type (Environment)",
             "options": [
                 {
@@ -57,6 +57,9 @@
                     "id": "qKdVldrQQEI"
                 },
                 {
+                    "id": "WMWoczfrfqS"
+                },
+                {
                     "id": "OveqHGXmNjC"
                 },
                 {
@@ -93,7 +96,22 @@
                     "id": "GscXPRKgpPG"
                 },
                 {
-                    "id": "WMWoczfrfqS"
+                    "id": "uQLy05MLrFT"
+                },
+                {
+                    "id": "lqMHByVCjIe"
+                },
+                {
+                    "id": "ItfP6ZdP6BD"
+                },
+                {
+                    "id": "l7Zi0KdMEit"
+                },
+                {
+                    "id": "tDRYuYcGgHQ"
+                },
+                {
+                    "id": "hhTqeCuFL2D"
                 }
             ],
             "sharing": {
@@ -483,6 +501,84 @@
                 "id": "Xhoz6BW4aiz"
             },
             "sortOrder": 28,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "efffarm",
+            "created": "2022-01-10T21:21:25.333",
+            "id": "lqMHByVCjIe",
+            "lastUpdated": "2022-01-10T21:21:25.393",
+            "name": "Effluent (livestock farms)",
+            "optionSet": {
+                "id": "Xhoz6BW4aiz"
+            },
+            "sortOrder": 31,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "effmarket",
+            "created": "2022-01-10T21:22:12.859",
+            "id": "ItfP6ZdP6BD",
+            "lastUpdated": "2022-01-10T21:22:12.934",
+            "name": "Effluent (livestock markets)",
+            "optionSet": {
+                "id": "Xhoz6BW4aiz"
+            },
+            "sortOrder": 32,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "effshosue",
+            "created": "2022-01-10T21:24:22.367",
+            "id": "tDRYuYcGgHQ",
+            "lastUpdated": "2022-01-10T21:24:22.409",
+            "name": "Effluent (slaughter house)",
+            "optionSet": {
+                "id": "Xhoz6BW4aiz"
+            },
+            "sortOrder": 34,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "eff",
+            "created": "2022-01-10T21:19:28.037",
+            "id": "uQLy05MLrFT",
+            "lastUpdated": "2022-01-10T21:19:28.299",
+            "name": "Effluent (unspecified)",
+            "optionSet": {
+                "id": "Xhoz6BW4aiz"
+            },
+            "sortOrder": 30,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "effvhospital",
+            "created": "2022-01-10T21:22:58.255",
+            "id": "l7Zi0KdMEit",
+            "lastUpdated": "2022-01-10T21:22:58.298",
+            "name": "Effluent (veterinary hospital)",
+            "optionSet": {
+                "id": "Xhoz6BW4aiz"
+            },
+            "sortOrder": 33,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "waaquaculture",
+            "created": "2022-01-10T21:26:10.078",
+            "id": "hhTqeCuFL2D",
+            "lastUpdated": "2022-01-10T21:26:10.116",
+            "name": "Water, fish pond",
+            "optionSet": {
+                "id": "Xhoz6BW4aiz"
+            },
+            "sortOrder": 35,
             "translations": []
         }
     ]
