@@ -2,8 +2,8 @@
     "system": {
         "date": "2021-06-28T04:31:17.377",
         "id": "3d255d38-f428-4c88-9a2a-a55b45d6db1a",
-        "rev": "ca2700f",
-        "version": "2.36.0"
+        "rev": "a95cf40",
+        "version": "2.36.3"
     },
     "legendSets": [
         {
@@ -634,6 +634,30 @@
             "translations": [],
             "unique": false,
             "valueType": "NUMBER"
+        },
+        {
+            "aggregationType": "COUNT",
+            "attributeValues": [],
+            "confidential": false,
+            "created": "2021-11-05T05:43:18.291",
+            "displayInListNoProgram": false,
+            "displayOnVisitSchedule": false,
+            "generated": false,
+            "id": "KJyGpjGNP0Q",
+            "inherit": false,
+            "lastUpdated": "2021-12-04T12:17:15.561",
+            "legendSets": [],
+            "name": "Animal species",
+            "optionSet": {
+                "id": "CBc2yDbDgpA"
+            },
+            "orgunitScope": false,
+            "pattern": "",
+            "shortName": "Animal species",
+            "skipSynchronization": false,
+            "translations": [],
+            "unique": false,
+            "valueType": "TEXT"
         },
         {
             "aggregationType": "COUNT",
