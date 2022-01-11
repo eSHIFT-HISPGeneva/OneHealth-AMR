@@ -1,0 +1,223 @@
+{
+    "categories": [
+        {
+            "attributeValues": [],
+            "categoryOptions": [
+                {
+                    "id": "mm9w0juVpcB"
+                },
+                {
+                    "id": "zdWux7RO3Mw"
+                },
+                {
+                    "id": "g6e82vWrTce"
+                },
+                {
+                    "id": "LAQjDpwxtKT"
+                }
+            ],
+            "created": "2020-09-28T18:26:03.168",
+            "dataDimension": true,
+            "dataDimensionType": "DISAGGREGATION",
+            "id": "pMPvPizZ6i2",
+            "lastUpdated": "2021-06-03T08:39:12.246",
+            "name": "RIS results",
+            "shortName": "RIS results",
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "categoryOptions": [
+                {
+                    "id": "xYerKDKCefk"
+                }
+            ],
+            "code": "default",
+            "created": "2021-04-19T09:52:27.054",
+            "dataDimension": false,
+            "dataDimensionType": "DISAGGREGATION",
+            "id": "GLevLNI9wkl",
+            "lastUpdated": "2021-10-02T09:53:30.103",
+            "name": "default",
+            "shortName": "default",
+            "translations": []
+        }
+    ],
+    "categoryCombos": [
+        {
+            "categories": [
+                {
+                    "id": "pMPvPizZ6i2"
+                }
+            ],
+            "created": "2020-09-29T11:28:29.827",
+            "dataDimensionType": "DISAGGREGATION",
+            "id": "ZLdUexUlUBE",
+            "lastUpdated": "2021-06-03T08:38:44.212",
+            "name": "RIS results",
+            "skipTotal": false,
+            "translations": []
+        },
+        {
+            "categories": [
+                {
+                    "id": "GLevLNI9wkl"
+                }
+            ],
+            "code": "default",
+            "created": "2021-04-19T09:52:27.056",
+            "dataDimensionType": "DISAGGREGATION",
+            "id": "bjDvmb4bfuf",
+            "lastUpdated": "2021-04-19T09:52:27.059",
+            "name": "default",
+            "skipTotal": false,
+            "translations": []
+        }
+    ],
+    "categoryOptionCombos": [
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "ZLdUexUlUBE"
+            },
+            "categoryOptions": [
+                {
+                    "id": "zdWux7RO3Mw"
+                }
+            ],
+            "created": "2020-09-29T11:28:29.919",
+            "id": "K4bqjX1thFO",
+            "ignoreApproval": false,
+            "lastUpdated": "2021-06-02T13:33:35.997",
+            "name": "Intermediate",
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "ZLdUexUlUBE"
+            },
+            "categoryOptions": [
+                {
+                    "id": "LAQjDpwxtKT"
+                }
+            ],
+            "created": "2020-09-29T11:28:29.924",
+            "id": "i8zhyP7aBfr",
+            "ignoreApproval": false,
+            "lastUpdated": "2021-06-02T13:33:35.997",
+            "name": "Not Tested",
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "ZLdUexUlUBE"
+            },
+            "categoryOptions": [
+                {
+                    "id": "mm9w0juVpcB"
+                }
+            ],
+            "created": "2020-09-29T11:28:29.916",
+            "id": "A4ADeAQxxri",
+            "ignoreApproval": false,
+            "lastUpdated": "2021-06-02T13:33:35.997",
+            "name": "Resistance",
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "ZLdUexUlUBE"
+            },
+            "categoryOptions": [
+                {
+                    "id": "g6e82vWrTce"
+                }
+            ],
+            "created": "2020-09-29T11:28:29.922",
+            "id": "IKhJyHD09Xc",
+            "ignoreApproval": false,
+            "lastUpdated": "2021-06-02T13:33:35.997",
+            "name": "Susceptible",
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "categoryCombo": {
+                "id": "bjDvmb4bfuf"
+            },
+            "categoryOptions": [
+                {
+                    "id": "xYerKDKCefk"
+                }
+            ],
+            "code": "default",
+            "created": "2021-04-19T09:52:27.058",
+            "id": "HllvX50cXC0",
+            "ignoreApproval": false,
+            "lastUpdated": "2021-04-19T09:52:27.059",
+            "name": "default",
+            "translations": []
+        }
+    ],
+    "categoryOptions": [
+        {
+            "attributeValues": [],
+            "created": "2020-09-28T18:16:42.717",
+            "id": "zdWux7RO3Mw",
+            "lastUpdated": "2021-06-03T09:39:09.044",
+            "name": "Intermediate",
+            "organisationUnits": [],
+            "shortName": "Intermediate",
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "created": "2020-09-28T18:18:04.688",
+            "id": "LAQjDpwxtKT",
+            "lastUpdated": "2021-06-03T09:39:44.734",
+            "name": "Not Tested",
+            "organisationUnits": [],
+            "shortName": "Not Tested",
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "created": "2020-09-28T18:16:08.131",
+            "id": "mm9w0juVpcB",
+            "lastUpdated": "2021-06-03T09:40:02.954",
+            "name": "Resistance",
+            "organisationUnits": [],
+            "shortName": "Resistance",
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "created": "2020-09-28T18:17:37.430",
+            "id": "g6e82vWrTce",
+            "lastUpdated": "2021-06-03T09:40:21.506",
+            "name": "Susceptible",
+            "organisationUnits": [],
+            "shortName": "Susceptible",
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "default",
+            "created": "2021-04-19T09:52:27.052",
+            "id": "xYerKDKCefk",
+            "lastUpdated": "2021-04-19T09:52:27.060",
+            "name": "default",
+            "organisationUnits": [],
+            "translations": []
+        }
+    ],
+    "system": {
+        "date": "2021-10-07T06:27:20.896",
+        "id": "3d255d38-f428-4c88-9a2a-a55b45d6db1a",
+        "rev": "a95cf40",
+        "version": "2.36.3"
+    }
+}
