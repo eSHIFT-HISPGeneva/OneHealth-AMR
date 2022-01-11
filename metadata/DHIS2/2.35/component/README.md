@@ -7,6 +7,7 @@ To be valid, the metadata objects __MUST be imported in the following order:__
 * Permission Groups (usergroups.json)
 * Option Sets (optionset-_name_.json)
 * Category Combinations (categorycombinations.json)
+* Program related Data Elements (dataelement-progs.json)
 * Tracker Types and Attributes (trackertypesattributes.json)
 * Program Data Elements (dataelement-progs.json)
 * Tracker Programs (prog-_name_.sjon)
