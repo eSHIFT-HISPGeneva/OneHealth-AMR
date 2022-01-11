@@ -1,0 +1,138 @@
+{
+    "date": "2021-06-28T02:42:02.637",
+    "optionSets": [
+        {
+            "attributeValues": [],
+            "code": "Animal species",
+            "created": "2021-11-05T05:42:46.919",
+            "id": "CBc2yDbDgpA",
+            "lastUpdated": "2021-12-21T17:28:40.789",
+            "name": "Animal species",
+            "options": [
+                {
+                    "id": "AEVLcX07BQJ"
+                },
+                {
+                    "id": "WjP026o5i2G"
+                },
+                {
+                    "id": "h9D1vlf3fCa"
+                },
+                {
+                    "id": "YvAyBdMN06x"
+                },
+                {
+                    "id": "PYbnoQj9ZbW"
+                },
+                {
+                    "id": "CiK9Pd2ZA8B"
+                },
+                {
+                    "id": "TyEGjWqqbo4"
+                }
+            ],
+            "sharing": {
+                "external": false,
+                "public": "rw------",
+                "userGroups": {},
+                "users": {}
+            },
+            "translations": [],
+            "valueType": "TEXT",
+            "version": 11
+        }
+    ],
+    "options": [
+        {
+            "attributeValues": [],
+            "code": "Cat",
+            "created": "2021-12-03T06:50:46.221",
+            "id": "WjP026o5i2G",
+            "lastUpdated": "2021-12-03T06:50:46.271",
+            "name": "Cat",
+            "optionSet": {
+                "id": "CBc2yDbDgpA"
+            },
+            "sortOrder": 2,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "Dairy animals",
+            "created": "2021-12-03T06:49:04.243",
+            "id": "CiK9Pd2ZA8B",
+            "lastUpdated": "2021-12-03T06:49:04.258",
+            "name": "Dairy animals",
+            "optionSet": {
+                "id": "CBc2yDbDgpA"
+            },
+            "sortOrder": 6,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "Dog",
+            "created": "2021-12-03T06:50:31.122",
+            "id": "h9D1vlf3fCa",
+            "lastUpdated": "2021-12-03T06:50:31.134",
+            "name": "Dog",
+            "optionSet": {
+                "id": "CBc2yDbDgpA"
+            },
+            "sortOrder": 3,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "Goats / Sheep",
+            "created": "2021-12-03T06:50:11.277",
+            "id": "YvAyBdMN06x",
+            "lastUpdated": "2021-12-03T06:50:11.290",
+            "name": "Goats / Sheep",
+            "optionSet": {
+                "id": "CBc2yDbDgpA"
+            },
+            "sortOrder": 4,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "Horse",
+            "created": "2021-12-03T06:51:02.258",
+            "id": "AEVLcX07BQJ",
+            "lastUpdated": "2021-12-03T06:51:02.271",
+            "name": "Horse",
+            "optionSet": {
+                "id": "CBc2yDbDgpA"
+            },
+            "sortOrder": 1,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "Pigs",
+            "created": "2021-12-03T06:49:17.205",
+            "id": "PYbnoQj9ZbW",
+            "lastUpdated": "2021-12-03T06:49:17.219",
+            "name": "Pigs",
+            "optionSet": {
+                "id": "CBc2yDbDgpA"
+            },
+            "sortOrder": 5,
+            "translations": []
+        },
+        {
+            "attributeValues": [],
+            "code": "Poultry (and eggs)",
+            "created": "2021-12-21T17:28:39.348",
+            "id": "TyEGjWqqbo4",
+            "lastUpdated": "2021-12-21T17:28:39.407",
+            "name": "Poultry (and eggs)",
+            "optionSet": {
+                "id": "CBc2yDbDgpA"
+            },
+            "sortOrder": 7,
+            "translations": []
+        }
+    ]
+}
