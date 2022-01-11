@@ -164,82 +164,6 @@
                     "compulsory": false,
                     "created": "2021-06-09T02:15:46.280",
                     "dataElement": {
-                        "id": "v40JOtHbKmz"
-                    },
-                    "displayInReports": false,
-                    "externalAccess": false,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "z66B7GAefhE",
-                    "lastUpdated": "2021-06-28T02:33:22.341",
-                    "programStage": {
-                        "id": "o4y0K2eRSUT"
-                    },
-                    "renderOptionsAsRadio": false,
-                    "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
-                    },
-                    "skipSynchronization": false,
-                    "sortOrder": 2,
-                    "translations": [],
-                    "userAccesses": [],
-                    "userGroupAccesses": []
-                },
-                {
-                    "access": {
-                        "delete": true,
-                        "externalize": true,
-                        "manage": true,
-                        "read": true,
-                        "update": true,
-                        "write": true
-                    },
-                    "allowFutureDate": false,
-                    "allowProvidedElsewhere": false,
-                    "attributeValues": [],
-                    "compulsory": false,
-                    "created": "2021-06-09T02:15:46.279",
-                    "dataElement": {
-                        "id": "Wsk4NARIElI"
-                    },
-                    "displayInReports": false,
-                    "externalAccess": false,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "zwl2w3Ll43V",
-                    "lastUpdated": "2021-06-28T02:33:22.340",
-                    "programStage": {
-                        "id": "o4y0K2eRSUT"
-                    },
-                    "renderOptionsAsRadio": false,
-                    "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
-                    },
-                    "skipSynchronization": false,
-                    "sortOrder": 3,
-                    "translations": [],
-                    "userAccesses": [],
-                    "userGroupAccesses": []
-                },
-                {
-                    "access": {
-                        "delete": true,
-                        "externalize": true,
-                        "manage": true,
-                        "read": true,
-                        "update": true,
-                        "write": true
-                    },
-                    "allowFutureDate": false,
-                    "allowProvidedElsewhere": false,
-                    "attributeValues": [],
-                    "compulsory": false,
-                    "created": "2021-06-09T02:15:46.280",
-                    "dataElement": {
                         "id": "C25kY3E21zv"
                     },
                     "displayInReports": false,
@@ -300,44 +224,6 @@
                     "translations": [],
                     "userAccesses": [],
                     "userGroupAccesses": []
-                },
-                {
-                    "access": {
-                        "delete": true,
-                        "externalize": true,
-                        "manage": true,
-                        "read": true,
-                        "update": true,
-                        "write": true
-                    },
-                    "allowFutureDate": false,
-                    "allowProvidedElsewhere": false,
-                    "attributeValues": [],
-                    "compulsory": false,
-                    "created": "2021-06-11T02:15:17.072",
-                    "dataElement": {
-                        "id": "G2zKKZR8w7h"
-                    },
-                    "displayInReports": false,
-                    "externalAccess": false,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "iyWBGMCJZUf",
-                    "lastUpdated": "2021-06-28T02:33:22.341",
-                    "programStage": {
-                        "id": "o4y0K2eRSUT"
-                    },
-                    "renderOptionsAsRadio": false,
-                    "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
-                    },
-                    "skipSynchronization": false,
-                    "sortOrder": 6,
-                    "translations": [],
-                    "userAccesses": [],
-                    "userGroupAccesses": []
                 }
             ],
             "programStageSections": [
@@ -387,7 +273,7 @@
             },
             "programTrackedEntityAttributeGroups": [],
             "renderOptionsAsRadio": false,
-            "searchable": false,
+            "searchable": true,
             "sortOrder": 5,
             "trackedEntityAttribute": {
                 "id": "eaqQd1d6yAV"
@@ -404,7 +290,7 @@
             },
             "programTrackedEntityAttributeGroups": [],
             "renderOptionsAsRadio": false,
-            "searchable": false,
+            "searchable": true,
             "sortOrder": 3,
             "trackedEntityAttribute": {
                 "id": "oWzw3X5aKL3"
@@ -421,7 +307,7 @@
             },
             "programTrackedEntityAttributeGroups": [],
             "renderOptionsAsRadio": false,
-            "searchable": false,
+            "searchable": true,
             "sortOrder": 1,
             "trackedEntityAttribute": {
                 "id": "LQZywhYcISY"
@@ -438,7 +324,7 @@
             },
             "programTrackedEntityAttributeGroups": [],
             "renderOptionsAsRadio": false,
-            "searchable": false,
+            "searchable": true,
             "sortOrder": 2,
             "trackedEntityAttribute": {
                 "id": "opkhFoeEz9m"
@@ -455,7 +341,7 @@
             },
             "programTrackedEntityAttributeGroups": [],
             "renderOptionsAsRadio": false,
-            "searchable": false,
+            "searchable": true,
             "sortOrder": 4,
             "trackedEntityAttribute": {
                 "id": "QznE0JyWMCT"
@@ -472,7 +358,7 @@
             },
             "programTrackedEntityAttributeGroups": [],
             "renderOptionsAsRadio": false,
-            "searchable": false,
+            "searchable": true,
             "sortOrder": 6,
             "trackedEntityAttribute": {
                 "id": "qaQzslMuVac"
@@ -532,7 +418,7 @@
                     },
                     "programTrackedEntityAttributeGroups": [],
                     "renderOptionsAsRadio": false,
-                    "searchable": false,
+                    "searchable": true,
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -573,7 +459,7 @@
                     },
                     "programTrackedEntityAttributeGroups": [],
                     "renderOptionsAsRadio": false,
-                    "searchable": false,
+                    "searchable": true,
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -614,7 +500,7 @@
                     },
                     "programTrackedEntityAttributeGroups": [],
                     "renderOptionsAsRadio": false,
-                    "searchable": false,
+                    "searchable": true,
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -696,7 +582,7 @@
                     },
                     "programTrackedEntityAttributeGroups": [],
                     "renderOptionsAsRadio": false,
-                    "searchable": false,
+                    "searchable": true,
                     "sharing": {
                         "external": false,
                         "userGroups": {},
